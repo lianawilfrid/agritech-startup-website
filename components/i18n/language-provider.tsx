@@ -36,18 +36,22 @@ const en = {
   'common.addToCart': 'Add to Cart',
   'common.buyNow': 'Buy Now',
   'common.shopPlants': 'Shop Plants',
-} as const
+  'cta.title': 'Grow with confidence this season',
+  'cta.subtitle':
+    'Certified planting material, doorstep farm delivery and expert support in your language. Start your next crop with us today.',
+  'cta.shop': 'Shop Plants',
+  'cta.expert': 'Talk to an Expert',
+}
 
-export type TranslationKey = keyof typeof en
+export type TranslationKey = string
 
-const dictionaries: Record<LocaleCode, Partial<Record<TranslationKey, string>>> =
-  {
-    en,
-    kn: {},
-    ta: {},
-    te: {},
-    ml: {},
-  }
+const dictionaries: Record<LocaleCode, Record<string, string>> = {
+  en,
+  kn: {},
+  ta: {},
+  te: {},
+  ml: {},
+}
 
 type LanguageContextValue = {
   locale: LocaleCode
