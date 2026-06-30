@@ -4,7 +4,7 @@ import Link from 'next/link'
 import { Reveal } from '@/components/ui/reveal'
 import { useLanguage } from '@/components/i18n/language-provider'
 
-const WHATSAPP_URL = 'https://wa.me/919900000000'
+const WHATSAPP_URL = 'https://wa.me/918088192674'
 
 export function CtaBanner() {
   const { t } = useLanguage()
