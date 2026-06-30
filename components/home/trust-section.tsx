@@ -17,7 +17,7 @@ const items = [
   {
     icon: Sprout,
     title: 'Direct From Trusted Nurseries',
-    desc: 'Sourced and hardened at our own and partner nurseries.',
+    desc: 'Sourced from high-quality trusted nurseries and labs.',
   },
   {
     icon: Truck,
@@ -37,7 +37,7 @@ const items = [
   {
     icon: ShieldCheck,
     title: 'Secure Payments',
-    desc: 'UPI, cards, net banking and cash on delivery.',
+    desc: 'UPI, cards, net banking available.',
   },
 ]
 
