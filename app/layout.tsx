@@ -31,10 +31,10 @@ export const metadata: Metadata = {
   keywords: [
     'tissue culture plants',
     'nursery seedlings',
-    'organic manure',
-    'biofertilizers',
-    'cocopeat',
-    'vermicompost',
+    'organic saplings',
+    'sustainable agricultural inputs',
+    'Classic Pumps',
+    'healthy seeds',
     'South India agriculture',
   ],
 }
