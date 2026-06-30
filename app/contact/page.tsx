@@ -4,20 +4,20 @@ import { useState, type FormEvent } from 'react'
 import { Phone, Mail, MapPin, MessageCircle, Send, Check } from 'lucide-react'
 import { Reveal } from '@/components/ui/reveal'
 
-const WHATSAPP_URL = 'https://wa.me/919000000000'
+const WHATSAPP_URL = 'https://wa.me/918088192674'
 
 const contactDetails = [
   {
     icon: Phone,
     label: 'Call us',
-    value: '+91 90000 00000',
-    href: 'tel:+919000000000',
+    value: '+91 80881 92674',
+    href: 'tel:+918088192674',
   },
   {
     icon: Mail,
     label: 'Email us',
-    value: 'hello@sproutwell.in',
-    href: 'mailto:hello@sproutwell.in',
+    value: 'sproutwell.agritech@gmail.com',
+    href: 'mailto:sproutwell.agritech@gmail.com',
   },
   {
     icon: MessageCircle,
@@ -28,8 +28,8 @@ const contactDetails = [
   {
     icon: MapPin,
     label: 'Visit us',
-    value: 'Hebbal, Bengaluru, Karnataka 560024',
-    href: 'https://www.google.com/maps/search/?api=1&query=Hebbal+Bengaluru+Karnataka',
+    value: 'Kochi, Kerala',
+    href: 'https://www.google.com/maps/search/?api=1&query=Kochi+Kerala',
   },
 ]
 
@@ -58,7 +58,7 @@ export default function ContactPage() {
             </h1>
             <p className="mx-auto mt-4 max-w-xl text-pretty text-base leading-relaxed text-muted-foreground sm:text-lg">
               Questions about an order, a crop, or bulk pricing? Reach us
-              however's easiest — we usually reply within a day.
+              however's easiest — we reply within a day.
             </p>
           </Reveal>
         </div>
