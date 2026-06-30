@@ -13,12 +13,12 @@ const values = [
   {
     icon: Microscope,
     title: 'Lab-certified quality',
-    text: 'Every batch of tissue culture material is screened for disease before it leaves our nursery.',
+    text: 'Every batch of tissue culture material is screened for disease before it leaves the nursery.',
   },
   {
     icon: Sprout,
     title: 'Sustainable inputs',
-    text: 'We favour organic manure, biofertilizers and vermicompost over synthetic shortcuts wherever possible.',
+    text: 'We favour and recommend organic manure, biofertilizers and vermicompost over synthetic shortcuts wherever possible.',
   },
   {
     icon: Users,
@@ -27,16 +27,16 @@ const values = [
   },
   {
     icon: Award,
-    title: 'Survival warranty',
-    text: 'Eligible plants carry a 30-day replacement guarantee when our growing guidelines are followed.',
+    title: 'Survival guarantee',
+    text: 'All saplings are guaranteed to provide good yield if instructions and our growing guidelines are followed.',
   },
 ]
 
 const timeline = [
   {
     year: '2016',
-    title: 'Founded in Hebbal, Bengaluru',
-    text: 'Started as a small tissue culture lab supplying banana plantlets to growers in Karnataka.',
+    title: 'Founded in Kochi, Kerala',
+    text: 'Started as a small tissue culture organization supplying banana plantlets to growers in Kerala.',
   },
   {
     year: '2018',
@@ -45,13 +45,13 @@ const timeline = [
   },
   {
     year: '2021',
-    title: 'Launched organic inputs line',
-    text: 'Introduced vermicompost, biofertilizers and cocopeat to support soil health alongside planting material.',
+    title: 'Began distributing to farmers in Karnataka too',
+    text: 'Introduced tissue culture and vegetable saplings and seeds to farmers in Karnataka.',
   },
   {
     year: '2024',
-    title: 'Crossed 5 states served',
-    text: 'Began farm delivery across Karnataka, Tamil Nadu, Andhra Pradesh, Telangana and Kerala.',
+    title: 'Crossed 3 states served',
+    text: 'Began farm delivery across Karnataka, Tamil Nadu and Kerala.',
   },
 ]
 
@@ -59,28 +59,28 @@ const sourcingSteps = [
   {
     step: '01',
     title: 'Mother plant selection',
-    text: 'Disease-free mother plants are selected and tested before any culturing begins.',
+    text: 'Disease-free mother plants are selected and tested before any culturing begins at the nurseries we source from.',
   },
   {
     step: '02',
     title: 'Lab propagation',
-    text: 'Material is multiplied under sterile lab conditions to guarantee genetic uniformity.',
+    text: 'Material is multiplied under sterile lab conditions to guarantee genetic uniformity at these same source nursery labs.',
   },
   {
     step: '03',
     title: 'Hardening',
-    text: 'Plantlets are gradually acclimatised to field conditions in our shade-net nursery.',
+    text: 'Plantlets are gradually acclimatised to field conditions.',
   },
   {
     step: '04',
     title: 'Quality check & dispatch',
-    text: 'A final health check before packing ensures only strong, transplant-ready material ships out.',
+    text: 'A final health check before packing ensures only strong, transplant-ready material ships out directly to your farms.',
   },
 ]
 
 const founders = [
-  { name: 'Anitha Rao', role: 'Co-founder & Head of Agronomy' },
-  { name: 'Vikram Shetty', role: 'Co-founder & Operations' },
+  { name: 'Based in Kochi', role: 'Co-founder & Head of Agronomy' },
+  { name: 'Based in Kannur', role: 'Co-founder & Operations' },
 ]
 
 export default function AboutPage() {
@@ -104,7 +104,7 @@ export default function AboutPage() {
               Helping farms across South India grow, one plant at a time
             </h1>
             <p className="mt-5 max-w-xl text-pretty text-base leading-relaxed text-white/85 sm:text-lg">
-              We're a tissue culture lab and farm input supplier built around
+              We're a tissue culture plant and farm input supplier built around
               one belief — that growers deserve disease-free planting material
               and honest support, not just another invoice.
             </p>
@@ -240,8 +240,7 @@ export default function AboutPage() {
           </div>
           <Reveal delay={160}>
             <div className="mt-6 flex items-center justify-center gap-2 text-sm text-muted-foreground">
-              <MapPin className="size-4 text-primary" /> Hebbal, Bengaluru,
-              Karnataka 560024
+              <MapPin className="size-4 text-primary" /> Kochi, Kerala
             </div>
           </Reveal>
         </div>
