@@ -1,37 +1,42 @@
+'use client'
+
 import Link from 'next/link'
 import { Leaf, MapPin, Phone, Mail, MessageCircle } from 'lucide-react'
 import { categories } from '@/lib/products'
-
-const footerNav = [
-  {
-    title: 'Shop',
-    links: categories.slice(0, 6).map((c) => ({
-      label: c.name,
-      href: `/shop/${c.slug}`,
-    })),
-  },
-  {
-    title: 'Company',
-    links: [
-      { label: 'About Us', href: '/about' },
-      { label: 'Why Choose Us', href: '/why-us' },
-      { label: 'Plant Warranty', href: '/warranty' },
-      { label: 'Knowledge Center', href: '/knowledge' },
-      { label: 'Become a Dealer', href: '/dealers' },
-    ],
-  },
-  {
-    title: 'Support',
-    links: [
-      { label: 'Track Order', href: '/track' },
-      { label: 'Contact', href: '/contact' },
-      { label: 'My Account', href: '/account' },
-      { label: 'Calculators', href: '/calculators' },
-    ],
-  },
-]
+import { useLanguage } from '@/components/i18n/language-provider'
 
 export function SiteFooter() {
+  const { t } = useLanguage()
+
+  const footerNav = [
+    {
+      title: t('footer.shop'),
+      links: categories.slice(0, 6).map((c) => ({
+        label: c.name,
+        href: `/shop/${c.slug}`,
+      })),
+    },
+    {
+      title: t('footer.company'),
+      links: [
+        { label: t('footer.aboutUs'), href: '/about' },
+        { label: t('footer.whyChooseUs'), href: '/why-us' },
+        { label: t('footer.warranty'), href: '/warranty' },
+        { label: t('footer.knowledgeCenter'), href: '/knowledge' },
+        { label: t('footer.becomeDealer'), href: '/dealers' },
+      ],
+    },
+    {
+      title: t('footer.support'),
+      links: [
+        { label: t('footer.trackOrder'), href: '/track' },
+        { label: t('footer.contact'), href: '/contact' },
+        { label: t('footer.myAccount'), href: '/account' },
+        { label: t('footer.calculators'), href: '/calculators' },
+      ],
+    },
+  ]
+
   return (
     <footer className="border-t border-border bg-secondary">
       <div className="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8">
@@ -46,8 +51,7 @@ export function SiteFooter() {
               </span>
             </Link>
             <p className="mt-4 max-w-xs text-pretty text-sm leading-relaxed text-muted-foreground">
-              Premium tissue culture plants, certified seedlings and sustainable
-              farm inputs delivered directly to your farm across South India.
+              {t('footer.tagline')}
             </p>
             <div className="mt-6 space-y-2.5 text-sm text-muted-foreground">
               <p className="flex items-center gap-2.5">
@@ -86,8 +90,7 @@ export function SiteFooter() {
 
         <div className="mt-12 flex flex-col items-center justify-between gap-4 border-t border-border pt-8 sm:flex-row">
           <p className="text-xs text-muted-foreground">
-            © {new Date().getFullYear()} Sproutwell AgriTech Pvt. Ltd. All rights
-            reserved.
+            © {new Date().getFullYear()} Sproutwell AgriTech Pvt. Ltd. {t('footer.rights')}
           </p>
           <a
             href="https://wa.me/919000000000"
@@ -95,7 +98,7 @@ export function SiteFooter() {
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 rounded-full bg-leaf px-4 py-2 text-sm font-medium text-leaf-foreground transition-colors hover:bg-leaf/90"
           >
-            <MessageCircle className="size-4" /> WhatsApp Support
+            <MessageCircle className="size-4" /> {t('footer.whatsappSupport')}
           </a>
         </div>
       </div>
