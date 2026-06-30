@@ -6,19 +6,19 @@ import { CtaBanner } from '@/components/home/cta-banner'
 export const metadata: Metadata = {
   title: 'Why Choose Sproutwell',
   description:
-    'See how Sproutwell compares to a typical local nursery on certification, survival warranty, delivery and growing support.',
+    'See how Sproutwell compares to a typical local nursery on certification, survival guarantee, delivery and growing support.',
 }
 
 const stats = [
-  { value: '50,000+', label: 'Plants delivered' },
+  { value: 'Multitudes', label: 'Plants delivered' },
   { value: '98%', label: 'Average survival rate' },
-  { value: '5', label: 'States served' },
+  { value: '3', label: 'States served' },
   { value: '2016', label: 'Operating since' },
 ]
 
 const comparison: { feature: string; sproutwell: boolean | string; typical: boolean | string }[] = [
   { feature: 'Lab-certified, virus-indexed material', sproutwell: true, typical: false },
-  { feature: 'Survival warranty with free replacement', sproutwell: '30 days', typical: false },
+  { feature: 'Survival guarantee', sproutwell: true, typical: false },
   { feature: 'Agronomist support after delivery', sproutwell: true, typical: false },
   { feature: 'Farm-gate delivery', sproutwell: true, typical: 'Pickup only' },
   { feature: 'WhatsApp order tracking & support', sproutwell: true, typical: false },
@@ -34,8 +34,8 @@ const pillars = [
   },
   {
     icon: ShieldCheck,
-    title: 'A warranty that means something',
-    text: 'If eligible plants don\u2019t survive within 30 days under our guidelines, we replace them — no fine print games.',
+    title: 'Guaranteed survival that means something',
+    text: 'Our plants don\u2019t just survive, they thrive.',
   },
   {
     icon: Truck,
