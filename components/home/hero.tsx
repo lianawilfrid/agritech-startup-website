@@ -39,7 +39,7 @@ export function Hero() {
               Shop Plants <ArrowRight className="size-5" />
             </Link>
             <a
-              href="https://wa.me/919000000000"
+              href="https://wa.me/918088192674"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex h-13 items-center justify-center gap-2 rounded-full border border-white/30 bg-white/10 px-7 py-3.5 text-base font-semibold text-white backdrop-blur-sm transition-colors hover:bg-white/20"
@@ -50,7 +50,7 @@ export function Hero() {
 
           <div className="mt-12 flex flex-wrap gap-x-8 gap-y-4">
             {[
-              { icon: ShieldCheck, label: 'Survival Warranty' },
+              { icon: ShieldCheck, label: 'Survival Guaranteed' },
               { icon: Truck, label: 'Farm Delivery' },
               { icon: Sprout, label: 'Expert Support' },
             ].map((item) => (
@@ -69,10 +69,10 @@ export function Hero() {
       <div className="relative border-t border-white/10 bg-[#06160e]/40 backdrop-blur-sm">
         <div className="mx-auto grid max-w-7xl grid-cols-2 divide-x divide-white/10 px-4 sm:grid-cols-4 sm:px-6 lg:px-8">
           {[
-            { value: '50,000+', label: 'Farmers served' },
-            { value: '1.2M+', label: 'Plants delivered' },
+            { value: 'Multitudes', label: 'Farmers served' },
+            { value: 'Healthy', label: 'Plants delivered' },
             { value: '98%', label: 'Survival rate' },
-            { value: '5 States', label: 'Across South India' },
+            { value: '3 States', label: 'Across South India' },
           ].map((stat) => (
             <div key={stat.label} className="px-4 py-6 text-center sm:py-8">
               <p className="font-heading text-2xl font-semibold text-white sm:text-3xl">
