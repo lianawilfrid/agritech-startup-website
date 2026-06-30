@@ -6,25 +6,27 @@ import { usePathname } from 'next/navigation'
 import { Leaf, ShoppingBag, Menu, X, User } from 'lucide-react'
 import { cn } from '@/lib/utils'
 import { LanguageSwitcher } from '@/components/i18n/language-switcher'
+import { useLanguage } from '@/components/i18n/language-provider'
 import { useCart } from '@/components/cart/cart-provider'
 import { categories } from '@/lib/products'
-
-const navLinks = [
-  { href: '/shop', label: 'Shop' },
-  { href: '/knowledge', label: 'Knowledge' },
-  { href: '/about', label: 'About' },
-  { href: '/why-us', label: 'Why Us' },
-  { href: '/contact', label: 'Contact' },
-]
 
 const WHATSAPP_URL = 'https://wa.me/919000000000'
 
 export function SiteHeader() {
   const { totalItems, openCart } = useCart()
+  const { t } = useLanguage()
   const [scrolled, setScrolled] = useState(false)
   const [mobileOpen, setMobileOpen] = useState(false)
   const [catOpen, setCatOpen] = useState(false)
   const pathname = usePathname()
+
+  const navLinks = [
+    { href: '/shop', label: t('nav.shop') },
+    { href: '/knowledge', label: t('nav.knowledge') },
+    { href: '/about', label: t('nav.about') },
+    { href: '/why-us', label: t('nav.why') },
+    { href: '/contact', label: t('nav.contact') },
+  ]
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 8)
@@ -64,7 +66,7 @@ export function SiteHeader() {
             onMouseLeave={() => setCatOpen(false)}
           >
             <button className="rounded-full px-3 py-2 text-sm font-medium text-foreground/80 transition-colors hover:bg-secondary hover:text-foreground">
-              Categories
+              {t('nav.categories')}
             </button>
             {catOpen && (
               <div className="absolute left-0 top-full w-[34rem] pt-2">
@@ -117,12 +119,12 @@ export function SiteHeader() {
             rel="noopener noreferrer"
             className="hidden h-10 items-center justify-center rounded-full bg-leaf px-4 text-sm font-medium text-leaf-foreground transition-colors hover:bg-leaf/90 xl:inline-flex"
           >
-            Talk to an Expert
+            {t('nav.expert')}
           </a>
           <LanguageSwitcher />
           <Link
             href="/account"
-            aria-label="Account"
+            aria-label={t('nav.account')}
             className="hidden size-10 items-center justify-center rounded-full border border-border bg-card text-foreground transition-colors hover:bg-secondary sm:flex"
           >
             <User className="size-4" />
@@ -156,7 +158,7 @@ export function SiteHeader() {
               href="/shop"
               className="rounded-xl px-3 py-2.5 text-sm font-medium text-foreground hover:bg-secondary"
             >
-              Shop All
+              {t('header.shopAll')}
             </Link>
             {navLinks.slice(1).map((link) => (
               <Link
@@ -171,7 +173,7 @@ export function SiteHeader() {
               href="/account"
               className="rounded-xl px-3 py-2.5 text-sm font-medium text-foreground hover:bg-secondary"
             >
-              Account
+              {t('nav.account')}
             </Link>
             <a
               href={WHATSAPP_URL}
@@ -179,7 +181,7 @@ export function SiteHeader() {
               rel="noopener noreferrer"
               className="mt-2 flex h-11 items-center justify-center rounded-full bg-leaf text-sm font-medium text-leaf-foreground transition-colors hover:bg-leaf/90"
             >
-              Talk to an Expert
+              {t('nav.expert')}
             </a>
           </nav>
         </div>
