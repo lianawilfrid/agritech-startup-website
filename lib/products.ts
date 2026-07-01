@@ -134,7 +134,7 @@ export const products: Product[] = [
     localName: 'ಬಾಳೆ ಗಿಡ / வாழை / అరటి',
     category: 'tissue-culture-plants',
     categoryName: 'Tissue Culture Plants',
-    image: 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42',
+    image: 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plant%20with%20large%20green%20bunch%20hanging%2C%20tropical%20farm%20rows%2C%20India%20agriculture?width=600&height=400&nologo=true&seed=101',
     gallery: ['https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
     shortDescription: 'Virus-indexed, genetically uniform G9 banana plantlets for high bunch yields.',
     description:
@@ -182,7 +182,7 @@ export const products: Product[] = [
     localName: 'ಸಾಗವಾನಿ / தேக்கு / టేకు',
     category: 'tissue-culture-plants',
     categoryName: 'Tissue Culture Plants',
-    image: 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42',
+    image: 'https://image.pollinations.ai/prompt/teak%20tree%20sapling%20Tectona%20grandis%20with%20large%20oval%20green%20leaves%2C%20nursery%20pot%2C%20tropical%20India%20forestry%20seedling?width=600&height=400&nologo=true&seed=102',
     gallery: ['https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
     shortDescription: 'Clonally propagated teak with straight bole and superior timber quality.',
     description:
@@ -230,7 +230,7 @@ export const products: Product[] = [
     localName: 'ಕರಿಮೆಣಸು / கருமிளகு / నల్ల మిరియాలు',
     category: 'tissue-culture-plants',
     categoryName: 'Tissue Culture Plants',
-    image: 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42',
+    image: 'https://image.pollinations.ai/prompt/black%20pepper%20vine%20Piper%20nigrum%20with%20green%20and%20red%20pepper%20berries%20on%20vine%2C%20Kerala%20plantation%20climbing%20on%20support?width=600&height=400&nologo=true&seed=103',
     gallery: ['https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
     shortDescription: 'High-yielding tissue culture black pepper — virus-free vines for commercial spice farming.',
     description:
@@ -279,7 +279,7 @@ export const products: Product[] = [
     localName: 'ಮಾವಿನ ಗಿಡ / மாங்கை மரம் / మామిడి',
     category: 'fruit-plants',
     categoryName: 'Fruit Plants',
-    image: 'https://image.pollinations.ai/prompt/grafted%20guava%20plant%20Psidium%20guajava%20with%20fruit%2C%20green%20leaves%2C%20Indian%20horticulture%20nursery%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42',
+    image: 'https://image.pollinations.ai/prompt/grafted%20mango%20tree%20sapling%20with%20green%20mango%20fruits%2C%20Alphonso%20variety%2C%20healthy%20green%20leaves%2C%20Indian%20horticulture%20nursery?width=600&height=400&nologo=true&seed=104',
     gallery: ['https://image.pollinations.ai/prompt/grafted%20guava%20plant%20Psidium%20guajava%20with%20fruit%2C%20green%20leaves%2C%20Indian%20horticulture%20nursery%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/grafted%20guava%20plant%20Psidium%20guajava%20with%20fruit%2C%20green%20leaves%2C%20Indian%20horticulture%20nursery%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
     shortDescription: 'Grafted mango saplings — Alphonso, Banganapalli, Totapuri and Kesar varieties.',
     description:
@@ -326,7 +326,7 @@ export const products: Product[] = [
     localName: 'ಸೀಬೆ ಗಿಡ / கொய்யா / జామ',
     category: 'fruit-plants',
     categoryName: 'Fruit Plants',
-    image: 'https://image.pollinations.ai/prompt/grafted%20guava%20plant%20Psidium%20guajava%20with%20fruit%2C%20green%20leaves%2C%20Indian%20horticulture%20nursery%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42',
+    image: 'https://image.pollinations.ai/prompt/guava%20plant%20Psidium%20guajava%20with%20round%20green%20guava%20fruits%20on%20branch%2C%20green%20leaves%2C%20Indian%20fruit%20farm?width=600&height=400&nologo=true&seed=105',
     gallery: ['https://image.pollinations.ai/prompt/grafted%20guava%20plant%20Psidium%20guajava%20with%20fruit%2C%20green%20leaves%2C%20Indian%20horticulture%20nursery%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/grafted%20guava%20plant%20Psidium%20guajava%20with%20fruit%2C%20green%20leaves%2C%20Indian%20horticulture%20nursery%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
     shortDescription: 'High-yield grafted guava — L-49, Lalit and Taiwan Pink varieties available.',
     description:
@@ -372,7 +372,7 @@ export const products: Product[] = [
     localName: 'ಸೀತಾಫಲ / சீதாப்பழம் / సీతాఫలం',
     category: 'fruit-plants',
     categoryName: 'Fruit Plants',
-    image: 'https://image.pollinations.ai/prompt/grafted%20guava%20plant%20Psidium%20guajava%20with%20fruit%2C%20green%20leaves%2C%20Indian%20horticulture%20nursery%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42',
+    image: 'https://image.pollinations.ai/prompt/custard%20apple%20sitaphal%20Annona%20squamosa%20green%20scaly%20fruit%20on%20tree%2C%20Indian%20orchard%2C%20tropical%20fruit%20plant?width=600&height=400&nologo=true&seed=106',
     gallery: ['https://image.pollinations.ai/prompt/grafted%20guava%20plant%20Psidium%20guajava%20with%20fruit%2C%20green%20leaves%2C%20Indian%20horticulture%20nursery%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/grafted%20guava%20plant%20Psidium%20guajava%20with%20fruit%2C%20green%20leaves%2C%20Indian%20horticulture%20nursery%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
     shortDescription: 'Grafted custard apple for heavy, sweet fruit — ideal for dry and semi-arid regions.',
     description:
@@ -418,7 +418,7 @@ export const products: Product[] = [
     localName: 'ನಿಂಬೆ ಹಣ್ಣು / எலுமிச்சை / నిమ్మకాయ',
     category: 'fruit-plants',
     categoryName: 'Fruit Plants',
-    image: 'https://image.pollinations.ai/prompt/grafted%20guava%20plant%20Psidium%20guajava%20with%20fruit%2C%20green%20leaves%2C%20Indian%20horticulture%20nursery%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42',
+    image: 'https://image.pollinations.ai/prompt/seedless%20lemon%20lime%20citrus%20tree%20with%20yellow%20green%20lemons%20hanging%20on%20branch%2C%20South%20India%20orchard%20grafted%20plant?width=600&height=400&nologo=true&seed=107',
     gallery: ['https://image.pollinations.ai/prompt/grafted%20guava%20plant%20Psidium%20guajava%20with%20fruit%2C%20green%20leaves%2C%20Indian%20horticulture%20nursery%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/grafted%20guava%20plant%20Psidium%20guajava%20with%20fruit%2C%20green%20leaves%2C%20Indian%20horticulture%20nursery%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
     shortDescription: 'Grafted seedless lemon/lime plants for high juice yield and premium market value.',
     description:
@@ -465,7 +465,7 @@ export const products: Product[] = [
     localName: 'ಸಪೋಟ / சப்போட்டா / సపోటా',
     category: 'fruit-plants',
     categoryName: 'Fruit Plants',
-    image: 'https://image.pollinations.ai/prompt/grafted%20guava%20plant%20Psidium%20guajava%20with%20fruit%2C%20green%20leaves%2C%20Indian%20horticulture%20nursery%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42',
+    image: 'https://image.pollinations.ai/prompt/sapota%20chikoo%20brown%20fruit%20on%20tree%20Manilkara%20zapota%2C%20ripe%20sapota%20fruits%20with%20green%20leaves%2C%20Indian%20orchard?width=600&height=400&nologo=true&seed=108',
     gallery: ['https://image.pollinations.ai/prompt/grafted%20guava%20plant%20Psidium%20guajava%20with%20fruit%2C%20green%20leaves%2C%20Indian%20horticulture%20nursery%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/grafted%20guava%20plant%20Psidium%20guajava%20with%20fruit%2C%20green%20leaves%2C%20Indian%20horticulture%20nursery%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
     shortDescription: 'Long-bearing grafted sapota with sweet, malty flavour — low maintenance crop.',
     description:
@@ -513,7 +513,7 @@ export const products: Product[] = [
     localName: 'ಅಡಿಕೆ ಮರ / பாக்கு மரம் / అడిక్కాయ',
     category: 'plantation-crops',
     categoryName: 'Plantation Crops',
-    image: 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42',
+    image: 'https://image.pollinations.ai/prompt/areca%20palm%20betel%20nut%20tree%20Areca%20catechu%20with%20clusters%20of%20orange%20nuts%2C%20tall%20slender%20palm%2C%20coastal%20Karnataka%20plantation?width=600&height=400&nologo=true&seed=109',
     gallery: ['https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
     shortDescription: 'Certified areca palm (betel nut) seedlings for commercial plantation — top South Canara varieties.',
     description:
@@ -560,7 +560,7 @@ export const products: Product[] = [
     localName: 'ಕಾಫಿ ಗಿಡ / காபி செடி / కాఫీ మొక్క',
     category: 'plantation-crops',
     categoryName: 'Plantation Crops',
-    image: 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42',
+    image: 'https://image.pollinations.ai/prompt/coffee%20plant%20Coffea%20arabica%20with%20red%20coffee%20cherries%20and%20green%20berries%20on%20branch%2C%20Western%20Ghats%20shade%20grown%20coffee?width=600&height=400&nologo=true&seed=110',
     gallery: ['https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
     shortDescription: 'Shade-grown Arabica and Robusta coffee seedlings for the Western Ghats.',
     description:
@@ -606,7 +606,7 @@ export const products: Product[] = [
     localName: 'ಗೇರು ಗಿಡ / முந்திரி / జీడిపప்பு',
     category: 'plantation-crops',
     categoryName: 'Plantation Crops',
-    image: 'https://image.pollinations.ai/prompt/grafted%20guava%20plant%20Psidium%20guajava%20with%20fruit%2C%20green%20leaves%2C%20Indian%20horticulture%20nursery%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42',
+    image: 'https://image.pollinations.ai/prompt/cashew%20tree%20with%20cashew%20apple%20and%20nut%20Anacardium%20occidentale%2C%20red%20and%20yellow%20cashew%20fruit%20with%20kidney%20shaped%20nut%2C%20India?width=600&height=400&nologo=true&seed=111',
     gallery: ['https://image.pollinations.ai/prompt/grafted%20guava%20plant%20Psidium%20guajava%20with%20fruit%2C%20green%20leaves%2C%20Indian%20horticulture%20nursery%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
     shortDescription: 'Grafted cashew nut plants from dwarf, high-yielding selections for coastal farms.',
     description:
@@ -654,7 +654,7 @@ export const products: Product[] = [
     localName: 'ಬೆಳ್ಳಿ ಓಕ್ / வெள்ளி ஓக் / సిల్వర్ ఓక్',
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
-    image: 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42',
+    image: 'https://image.pollinations.ai/prompt/silver%20oak%20Grevillea%20robusta%20tall%20tree%20with%20fern-like%20silver%20green%20leaves%2C%20agroforestry%20shade%20tree%20South%20India?width=600&height=400&nologo=true&seed=112',
     gallery: ['https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
     shortDescription: 'Fast-growing shade and timber tree widely used as a standard for pepper and coffee.',
     description:
@@ -701,7 +701,7 @@ export const products: Product[] = [
     localName: 'ಬೇವಿನ ಮರ / வேப்ப மரம் / వేప మొక్క',
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
-    image: 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42',
+    image: 'https://image.pollinations.ai/prompt/neem%20tree%20Azadirachta%20indica%20with%20pinnate%20compound%20leaves%20and%20small%20white%20flowers%2C%20Indian%20farm%20tree%20medicinal%20plant?width=600&height=400&nologo=true&seed=113',
     gallery: ['https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
     shortDescription: 'Multipurpose neem tree for farm boundary planting, timber and biopesticide production.',
     description:
@@ -747,7 +747,7 @@ export const products: Product[] = [
     localName: 'ಮಹೋಗನಿ / மஹோகனி / మహోగని',
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
-    image: 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42',
+    image: 'https://image.pollinations.ai/prompt/mahogany%20timber%20tree%20Swietenia%20mahagoni%20seedling%20with%20glossy%20dark%20green%20compound%20leaves%2C%20tropical%20hardwood%20nursery%20India?width=600&height=400&nologo=true&seed=114',
     gallery: ['https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
     shortDescription: 'Premium hardwood mahogany seedlings for commercial timber farming and agroforestry.',
     description:
@@ -793,7 +793,7 @@ export const products: Product[] = [
     localName: 'ರಕ್ತಚಂದನ / செம்மரம் / రక్తచందనం',
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
-    image: 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42',
+    image: 'https://image.pollinations.ai/prompt/red%20sandalwood%20tree%20Pterocarpus%20santalinus%20with%20yellow%20flowers%20and%20green%20leaves%2C%20Eastern%20Ghats%20India%20timber%20tree%20sapling?width=600&height=400&nologo=true&seed=115',
     gallery: ['https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
     shortDescription: 'Rare, high-value red sandalwood seedlings — endemic to South India and in heavy demand.',
     description:
@@ -846,7 +846,7 @@ export const products: Product[] = [
     localName: 'ಧೂಪ ಮರ / தூப மரம் / ధూప చెట్టు',
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
-    image: 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42',
+    image: 'https://image.pollinations.ai/prompt/Canarium%20strictum%20dammar%20resin%20tree%20with%20large%20glossy%20compound%20leaves%20and%20small%20fruits%2C%20Western%20Ghats%20sacred%20grove%20tree%20India?width=600&height=400&nologo=true&seed=116',
     gallery: ['https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
     shortDescription: 'Sacred South Indian resin tree — doopa/dhoop — with medicinal and timber value.',
     description:
@@ -892,7 +892,7 @@ export const products: Product[] = [
     localName: 'ಪೈಯಾನಿ / பையனி / పైయని',
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
-    image: 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42',
+    image: 'https://image.pollinations.ai/prompt/Careya%20arborea%20kumbhi%20tree%20with%20large%20round%20leaves%20and%20white%20flower%20buds%2C%20South%20Indian%20deciduous%20forest%20native%20tree?width=600&height=400&nologo=true&seed=117',
     gallery: ['https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
     shortDescription: 'Native South Indian hardwood tree for agroforestry, boundary planting and farm use.',
     description:
@@ -940,7 +940,7 @@ export const products: Product[] = [
     localName: 'ತರಕಾರಿ ಬೀಜಗಳು / காய்கறி விதைகள் / కూరగాయ విత్తనాలు',
     category: 'seeds-inputs',
     categoryName: 'Seeds & Inputs',
-    image: 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42',
+    image: 'https://image.pollinations.ai/prompt/hybrid%20vegetable%20seed%20packets%20with%20tomato%20chilli%20brinjal%20capsicum%20seeds%20displayed%2C%20Indian%20agriculture%20shop%20seeds?width=600&height=400&nologo=true&seed=118',
     gallery: ['https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
     shortDescription: 'Certified F1 hybrid vegetable seeds — tomato, chilli, brinjal, capsicum, okra and more.',
     description:
