@@ -330,7 +330,7 @@ export const products: Product[] = [
     gallery: ['/images/product-guava.png', '/images/cat-fruit-plants.png'],
     shortDescription: 'High-yield grafted guava — L-49, Lalit and Taiwan Pink varieties available.',
     description:
-      'Grafted guava plants from certified mother blocks guarantee heavy, uniform fruit set across the tree's long commercial life. Varieties include L-49 (Lucknow 49) for fresh market, Lalit for processing and Taiwan Pink for premium retail.',
+      "Grafted guava plants from certified mother blocks guarantee heavy, uniform fruit set across the tree's long commercial life. Varieties include L-49 (Lucknow 49) for fresh market, Lalit for processing and Taiwan Pink for premium retail.",
     benefits: [
       'Bearing begins within 2–3 years of planting',
       'High fruit set — 100–200 fruits per tree per year',
