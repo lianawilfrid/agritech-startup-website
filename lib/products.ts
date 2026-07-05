@@ -70,19 +70,19 @@ export const categories: Category[] = [
     slug: 'plantation-crops',
     name: 'Plantation Crops',
     tagline: 'Areca palm, coffee, cashew and more',
-    image: 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42',
+    image: 'https://image.pollinations.ai/prompt/areca%20palm%20and%20coffee%20plantation%20rows%2C%20coastal%20Karnataka%20farm%2C%20lush%20green%20plantation%20crops%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=210',
   },
   {
     slug: 'forestry-timber',
     name: 'Forestry & Timber',
     tagline: 'Native trees for agroforestry and timber farming',
-    image: 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42',
+    image: 'https://image.pollinations.ai/prompt/teak%20and%20silver%20oak%20forestry%20plantation%20rows%2C%20tall%20timber%20trees%2C%20South%20India%20agroforestry%2C%20professional%20photography?width=600&height=400&nologo=true&seed=211',
   },
   {
     slug: 'seeds-inputs',
     name: 'Seeds & Inputs',
     tagline: 'Quality vegetable seeds and agricultural inputs',
-    image: 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42',
+    image: 'https://image.pollinations.ai/prompt/assorted%20hybrid%20vegetable%20seed%20packets%20and%20young%20seedling%20trays%2C%20Indian%20agri%20input%20store%2C%20professional%20product%20photography?width=600&height=400&nologo=true&seed=212',
   },
 ]
 
@@ -135,7 +135,11 @@ export const products: Product[] = [
     category: 'tissue-culture-plants',
     categoryName: 'Tissue Culture Plants',
     image: 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plant%20with%20large%20green%20bunch%20hanging%2C%20tropical%20farm%20rows%2C%20India%20agriculture?width=600&height=400&nologo=true&seed=101',
-    gallery: ['https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
+    gallery: [
+      'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42',
+      'https://image.pollinations.ai/prompt/small%20tissue%20culture%20banana%20plantlet%20in%20black%20nursery%20polybag%2C%20hardening%20nursery%2C%20close%20up%2C%20professional%20photography?width=600&height=400&nologo=true&seed=1011',
+      'https://image.pollinations.ai/prompt/close%20up%20banana%20leaf%20texture%20and%20young%20banana%20pseudostem%2C%20tropical%20farm%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1012',
+    ],
     shortDescription: 'Virus-indexed, genetically uniform G9 banana plantlets for high bunch yields.',
     description:
       'Our G9 (Grand Naine) tissue culture banana plants are produced in certified labs, fully virus-indexed and hardened in our nurseries before dispatch. Each plant guarantees genetic uniformity, synchronized harvesting and superior bunch weight compared to sucker-propagated material.',
@@ -150,6 +154,7 @@ export const products: Product[] = [
     badge: 'Certified',
     bestSeller: true,
     sizes: [
+      { label: 'Single plant', price: 50, mrp: 60 },
       { label: 'Pack of 10', price: 500, mrp: 600 },
       { label: 'Pack of 50', price: 2300, mrp: 2800 },
       { label: 'Pack of 100', price: 4500, mrp: 5500 },
@@ -183,7 +188,10 @@ export const products: Product[] = [
     category: 'tissue-culture-plants',
     categoryName: 'Tissue Culture Plants',
     image: 'https://image.pollinations.ai/prompt/teak%20tree%20sapling%20Tectona%20grandis%20with%20large%20oval%20green%20leaves%2C%20nursery%20pot%2C%20tropical%20India%20forestry%20seedling?width=600&height=400&nologo=true&seed=102',
-    gallery: ['https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
+    gallery: [
+      'https://image.pollinations.ai/prompt/teak%20plantation%20rows%20Tectona%20grandis%2C%20young%20trees%20in%20straight%20lines%2C%20South%20India%20forestry%20farm%2C%20professional%20photography?width=600&height=400&nologo=true&seed=1021',
+      'https://image.pollinations.ai/prompt/close%20up%20teak%20tree%20trunk%20and%20large%20broad%20leaves%2C%20forestry%20nursery%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1022',
+    ],
     shortDescription: 'Clonally propagated teak with straight bole and superior timber quality.',
     description:
       'Tissue culture teak plants are clonally produced from elite mother trees selected for fast growth, straight trunk and superior timber quality. Unlike seed-grown teak, each plant is genetically identical, ensuring uniform plantation yield and predictable returns over the commercial cycle.',
@@ -198,6 +206,7 @@ export const products: Product[] = [
     badge: 'Clonal',
     bestSeller: true,
     sizes: [
+      { label: 'Single plant', price: 130, mrp: 155 },
       { label: 'Pack of 10', price: 1300, mrp: 1550 },
       { label: 'Pack of 50', price: 6000, mrp: 7200 },
       { label: 'Pack of 100', price: 11500, mrp: 13800 },
@@ -231,7 +240,10 @@ export const products: Product[] = [
     category: 'tissue-culture-plants',
     categoryName: 'Tissue Culture Plants',
     image: 'https://image.pollinations.ai/prompt/black%20pepper%20vine%20Piper%20nigrum%20with%20green%20and%20red%20pepper%20berries%20on%20vine%2C%20Kerala%20plantation%20climbing%20on%20support?width=600&height=400&nologo=true&seed=103',
-    gallery: ['https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
+    gallery: [
+      'https://image.pollinations.ai/prompt/black%20pepper%20plantation%20vines%20climbing%20on%20standard%20trees%2C%20Kerala%20Coorg%20spice%20farm%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1031',
+      'https://image.pollinations.ai/prompt/close%20up%20cluster%20of%20black%20pepper%20berries%20on%20vine%2C%20green%20and%20ripening%20red%2C%20macro%20photography?width=600&height=400&nologo=true&seed=1032',
+    ],
     shortDescription: 'High-yielding tissue culture black pepper — virus-free vines for commercial spice farming.',
     description:
       'Tissue culture black pepper vines are produced from Panniyur-1 and Karimunda selections — proven high-yielding, disease-tolerant varieties. Each vine is virus-indexed to be free from Phytophthora and mosaic virus, ensuring a clean start and consistent productivity over its long commercial life.',
@@ -245,6 +257,7 @@ export const products: Product[] = [
     reviewCount: 224,
     badge: 'Virus-Free',
     sizes: [
+      { label: 'Single vine', price: 80, mrp: 96 },
       { label: 'Pack of 10', price: 800, mrp: 960 },
       { label: 'Pack of 25', price: 1800, mrp: 2200 },
       { label: 'Pack of 50', price: 3400, mrp: 4100 },
@@ -280,7 +293,10 @@ export const products: Product[] = [
     category: 'fruit-plants',
     categoryName: 'Fruit Plants',
     image: 'https://image.pollinations.ai/prompt/grafted%20mango%20tree%20sapling%20with%20green%20mango%20fruits%2C%20Alphonso%20variety%2C%20healthy%20green%20leaves%2C%20Indian%20horticulture%20nursery?width=600&height=400&nologo=true&seed=104',
-    gallery: ['https://image.pollinations.ai/prompt/grafted%20guava%20plant%20Psidium%20guajava%20with%20fruit%2C%20green%20leaves%2C%20Indian%20horticulture%20nursery%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/grafted%20guava%20plant%20Psidium%20guajava%20with%20fruit%2C%20green%20leaves%2C%20Indian%20horticulture%20nursery%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
+    gallery: [
+      'https://image.pollinations.ai/prompt/mango%20orchard%20rows%20with%20fruit%20laden%20trees%2C%20Indian%20farm%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1041',
+      'https://image.pollinations.ai/prompt/close%20up%20ripe%20Alphonso%20mango%20fruit%20on%20branch%20with%20green%20leaves%2C%20macro%20photography?width=600&height=400&nologo=true&seed=1042',
+    ],
     shortDescription: 'Grafted mango saplings — Alphonso, Banganapalli, Totapuri and Kesar varieties.',
     description:
       'Our grafted mango plants are produced by veneer-grafting onto vigorous rootstocks, ensuring early bearing and true-to-variety fruit. Choose from top commercial varieties — Alphonso, Banganapalli, Totapuri, Kesar and more — for your region.',
@@ -327,7 +343,10 @@ export const products: Product[] = [
     category: 'fruit-plants',
     categoryName: 'Fruit Plants',
     image: 'https://image.pollinations.ai/prompt/guava%20plant%20Psidium%20guajava%20with%20round%20green%20guava%20fruits%20on%20branch%2C%20green%20leaves%2C%20Indian%20fruit%20farm?width=600&height=400&nologo=true&seed=105',
-    gallery: ['https://image.pollinations.ai/prompt/grafted%20guava%20plant%20Psidium%20guajava%20with%20fruit%2C%20green%20leaves%2C%20Indian%20horticulture%20nursery%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/grafted%20guava%20plant%20Psidium%20guajava%20with%20fruit%2C%20green%20leaves%2C%20Indian%20horticulture%20nursery%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
+    gallery: [
+      'https://image.pollinations.ai/prompt/guava%20orchard%20rows%20with%20dwarf%20fruiting%20trees%2C%20Indian%20farm%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1051',
+      'https://image.pollinations.ai/prompt/sliced%20cross%20section%20of%20fresh%20guava%20fruit%20showing%20pink%20flesh%2C%20macro%20food%20photography?width=600&height=400&nologo=true&seed=1052',
+    ],
     shortDescription: 'High-yield grafted guava — L-49, Lalit and Taiwan Pink varieties available.',
     description:
       "Grafted guava plants from certified mother blocks guarantee heavy, uniform fruit set across the tree's long commercial life. Varieties include L-49 (Lucknow 49) for fresh market, Lalit for processing and Taiwan Pink for premium retail.",
@@ -373,7 +392,10 @@ export const products: Product[] = [
     category: 'fruit-plants',
     categoryName: 'Fruit Plants',
     image: 'https://image.pollinations.ai/prompt/custard%20apple%20sitaphal%20Annona%20squamosa%20green%20scaly%20fruit%20on%20tree%2C%20Indian%20orchard%2C%20tropical%20fruit%20plant?width=600&height=400&nologo=true&seed=106',
-    gallery: ['https://image.pollinations.ai/prompt/grafted%20guava%20plant%20Psidium%20guajava%20with%20fruit%2C%20green%20leaves%2C%20Indian%20horticulture%20nursery%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/grafted%20guava%20plant%20Psidium%20guajava%20with%20fruit%2C%20green%20leaves%2C%20Indian%20horticulture%20nursery%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
+    gallery: [
+      'https://image.pollinations.ai/prompt/custard%20apple%20sitaphal%20orchard%20rows%2C%20dry%20Deccan%20plateau%20farm%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1061',
+      'https://image.pollinations.ai/prompt/sliced%20cross%20section%20of%20custard%20apple%20sitaphal%20fruit%20showing%20creamy%20white%20pulp%2C%20macro%20food%20photography?width=600&height=400&nologo=true&seed=1062',
+    ],
     shortDescription: 'Grafted custard apple for heavy, sweet fruit — ideal for dry and semi-arid regions.',
     description:
       'Grafted custard apple plants bear fruit 2–3 years earlier than seedling trees and produce larger, sweeter, more uniform fruits with thicker pulp. Excellent for dry Deccan agroclimatic zones with shallow, well-drained soils.',
@@ -419,7 +441,10 @@ export const products: Product[] = [
     category: 'fruit-plants',
     categoryName: 'Fruit Plants',
     image: 'https://image.pollinations.ai/prompt/seedless%20lemon%20lime%20citrus%20tree%20with%20yellow%20green%20lemons%20hanging%20on%20branch%2C%20South%20India%20orchard%20grafted%20plant?width=600&height=400&nologo=true&seed=107',
-    gallery: ['https://image.pollinations.ai/prompt/grafted%20guava%20plant%20Psidium%20guajava%20with%20fruit%2C%20green%20leaves%2C%20Indian%20horticulture%20nursery%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/grafted%20guava%20plant%20Psidium%20guajava%20with%20fruit%2C%20green%20leaves%2C%20Indian%20horticulture%20nursery%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
+    gallery: [
+      'https://image.pollinations.ai/prompt/citrus%20lemon%20lime%20orchard%20rows%2C%20irrigated%20farm%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1071',
+      'https://image.pollinations.ai/prompt/sliced%20lemon%20lime%20fruit%20cross%20section%20showing%20juicy%20seedless%20segments%2C%20macro%20food%20photography?width=600&height=400&nologo=true&seed=1072',
+    ],
     shortDescription: 'Grafted seedless lemon/lime plants for high juice yield and premium market value.',
     description:
       'Our grafted seedless citrus plants (lemon and acid lime varieties) are budded on Rangpur lime or rough lemon rootstock for robust growth and disease resistance. Seedless fruits command significantly higher market prices and are preferred by processors and modern retailers.',
@@ -466,7 +491,10 @@ export const products: Product[] = [
     category: 'fruit-plants',
     categoryName: 'Fruit Plants',
     image: 'https://image.pollinations.ai/prompt/sapota%20chikoo%20brown%20fruit%20on%20tree%20Manilkara%20zapota%2C%20ripe%20sapota%20fruits%20with%20green%20leaves%2C%20Indian%20orchard?width=600&height=400&nologo=true&seed=108',
-    gallery: ['https://image.pollinations.ai/prompt/grafted%20guava%20plant%20Psidium%20guajava%20with%20fruit%2C%20green%20leaves%2C%20Indian%20horticulture%20nursery%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/grafted%20guava%20plant%20Psidium%20guajava%20with%20fruit%2C%20green%20leaves%2C%20Indian%20horticulture%20nursery%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
+    gallery: [
+      'https://image.pollinations.ai/prompt/sapota%20chikoo%20orchard%20rows%2C%20mature%20fruiting%20trees%2C%20South%20India%20farm%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1081',
+      'https://image.pollinations.ai/prompt/sliced%20sapota%20chikoo%20fruit%20cross%20section%20showing%20brown%20sweet%20flesh%2C%20macro%20food%20photography?width=600&height=400&nologo=true&seed=1082',
+    ],
     shortDescription: 'Long-bearing grafted sapota with sweet, malty flavour — low maintenance crop.',
     description:
       'Grafted sapota begins fruiting in 3–4 years and continues to produce for over 50 years with minimal care. Once established, it tolerates dry spells, coastal salinity and a range of soils, making it one of the lowest-maintenance perennial fruit crops in South India.',
@@ -514,7 +542,10 @@ export const products: Product[] = [
     category: 'plantation-crops',
     categoryName: 'Plantation Crops',
     image: 'https://image.pollinations.ai/prompt/areca%20palm%20betel%20nut%20tree%20Areca%20catechu%20with%20clusters%20of%20orange%20nuts%2C%20tall%20slender%20palm%2C%20coastal%20Karnataka%20plantation?width=600&height=400&nologo=true&seed=109',
-    gallery: ['https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
+    gallery: [
+      'https://image.pollinations.ai/prompt/areca%20palm%20plantation%20rows%2C%20tall%20slender%20trunks%2C%20coastal%20Karnataka%20farm%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1091',
+      'https://image.pollinations.ai/prompt/close%20up%20cluster%20of%20areca%20nuts%20betel%20nut%20on%20palm%2C%20macro%20photography?width=600&height=400&nologo=true&seed=1092',
+    ],
     shortDescription: 'Certified areca palm (betel nut) seedlings for commercial plantation — top South Canara varieties.',
     description:
       'Our areca palm seedlings are raised from disease-free selected mother palms with high nut yield and good nut weight. Mangala, Sumangala and Shreemangala varieties are available. Areca cultivation is the backbone of coastal Karnataka and Kerala farming, offering steady annual income.',
@@ -561,7 +592,10 @@ export const products: Product[] = [
     category: 'plantation-crops',
     categoryName: 'Plantation Crops',
     image: 'https://image.pollinations.ai/prompt/coffee%20plant%20Coffea%20arabica%20with%20red%20coffee%20cherries%20and%20green%20berries%20on%20branch%2C%20Western%20Ghats%20shade%20grown%20coffee?width=600&height=400&nologo=true&seed=110',
-    gallery: ['https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
+    gallery: [
+      'https://image.pollinations.ai/prompt/shade%20grown%20coffee%20plantation%20rows%20under%20silver%20oak%20trees%2C%20Coorg%20Chikmagalur%20estate%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1101',
+      'https://image.pollinations.ai/prompt/close%20up%20ripe%20red%20coffee%20cherries%20on%20branch%2C%20macro%20photography?width=600&height=400&nologo=true&seed=1102',
+    ],
     shortDescription: 'Shade-grown Arabica and Robusta coffee seedlings for the Western Ghats.',
     description:
       'Our coffee seedlings are raised from disease-resistant, high-cup-quality selections — S.795 and Cauvery (Arabica), and CxR selections (Robusta). Suited to the Western Ghats elevation belt of Karnataka and Kerala, these seedlings establish quickly under shade and produce consistently over their long life.',
@@ -574,6 +608,7 @@ export const products: Product[] = [
     rating: 4.6,
     reviewCount: 258,
     sizes: [
+      { label: 'Single plant', price: 90, mrp: 110 },
       { label: 'Pack of 10', price: 900, mrp: 1100 },
       { label: 'Pack of 50', price: 3999, mrp: 4900 },
       { label: 'Pack of 100', price: 7500, mrp: 9200 },
@@ -603,11 +638,14 @@ export const products: Product[] = [
     slug: 'cashew-nut-seedling',
     name: 'Cashew Nut Seedling',
     scientificName: 'Anacardium occidentale',
-    localName: 'ಗೇರು ಗಿಡ / முந்திரி / జీడిపప்பு',
+    localName: 'ಗೇರು ಗಿಡ / முந்திரி / జీడిపప்பు',
     category: 'plantation-crops',
     categoryName: 'Plantation Crops',
     image: 'https://image.pollinations.ai/prompt/cashew%20tree%20with%20cashew%20apple%20and%20nut%20Anacardium%20occidentale%2C%20red%20and%20yellow%20cashew%20fruit%20with%20kidney%20shaped%20nut%2C%20India?width=600&height=400&nologo=true&seed=111',
-    gallery: ['https://image.pollinations.ai/prompt/grafted%20guava%20plant%20Psidium%20guajava%20with%20fruit%2C%20green%20leaves%2C%20Indian%20horticulture%20nursery%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
+    gallery: [
+      'https://image.pollinations.ai/prompt/cashew%20orchard%20rows%20coastal%20laterite%20soil%2C%20Goa%20Karnataka%20plantation%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1111',
+      'https://image.pollinations.ai/prompt/close%20up%20cashew%20apple%20with%20attached%20raw%20cashew%20nut%2C%20macro%20photography?width=600&height=400&nologo=true&seed=1112',
+    ],
     shortDescription: 'Grafted cashew nut plants from dwarf, high-yielding selections for coastal farms.',
     description:
       'Our cashew plants are air-layered or grafted from dwarf, early-bearing selections — Ullal-4, BPP-8 and Vengurla-4. These varieties produce larger nuts with better shelling percentage and are preferred by the processing industry across coastal Karnataka, Goa and Kerala.',
@@ -620,6 +658,7 @@ export const products: Product[] = [
     rating: 4.5,
     reviewCount: 192,
     sizes: [
+      { label: 'Single plant', price: 75, mrp: 93 },
       { label: 'Pack of 10', price: 750, mrp: 930 },
       { label: 'Pack of 25', price: 1750, mrp: 2200 },
       { label: 'Pack of 50', price: 3300, mrp: 4100 },
@@ -655,7 +694,10 @@ export const products: Product[] = [
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
     image: 'https://image.pollinations.ai/prompt/silver%20oak%20Grevillea%20robusta%20tall%20tree%20with%20fern-like%20silver%20green%20leaves%2C%20agroforestry%20shade%20tree%20South%20India?width=600&height=400&nologo=true&seed=112',
-    gallery: ['https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
+    gallery: [
+      'https://image.pollinations.ai/prompt/silver%20oak%20avenue%20trees%20used%20as%20living%20standards%20in%20pepper%20plantation%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1121',
+      'https://image.pollinations.ai/prompt/close%20up%20silver%20oak%20fern%20like%20silvery%20green%20leaves%2C%20macro%20photography?width=600&height=400&nologo=true&seed=1122',
+    ],
     shortDescription: 'Fast-growing shade and timber tree widely used as a standard for pepper and coffee.',
     description:
       'Silver Oak (Grevillea robusta) is the most commonly used shade tree in coffee and pepper plantations across South India. Its fast growth, non-invasive root system and light filtered shade make it the preferred living standard for black pepper vines and coffee bushes.',
@@ -669,6 +711,7 @@ export const products: Product[] = [
     reviewCount: 287,
     bestSeller: true,
     sizes: [
+      { label: 'Single plant', price: 38, mrp: 48 },
       { label: 'Pack of 10', price: 380, mrp: 480 },
       { label: 'Pack of 50', price: 1800, mrp: 2250 },
       { label: 'Pack of 100', price: 3400, mrp: 4250 },
@@ -702,7 +745,10 @@ export const products: Product[] = [
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
     image: 'https://image.pollinations.ai/prompt/neem%20tree%20Azadirachta%20indica%20with%20pinnate%20compound%20leaves%20and%20small%20white%20flowers%2C%20Indian%20farm%20tree%20medicinal%20plant?width=600&height=400&nologo=true&seed=113',
-    gallery: ['https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
+    gallery: [
+      'https://image.pollinations.ai/prompt/neem%20trees%20planted%20along%20farm%20boundary%20row%2C%20South%20India%20agroforestry%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1131',
+      'https://image.pollinations.ai/prompt/close%20up%20neem%20compound%20leaves%20and%20small%20green%20fruit%20berries%2C%20macro%20photography?width=600&height=400&nologo=true&seed=1132',
+    ],
     shortDescription: 'Multipurpose neem tree for farm boundary planting, timber and biopesticide production.',
     description:
       'Neem is one of India\'s most versatile farm trees — providing shade, natural pest deterrence, organic manure (neem cake), timber and traditional medicinal value. An excellent choice for boundary planting, agroforestry rows and wasteland reclamation.',
@@ -715,6 +761,7 @@ export const products: Product[] = [
     rating: 4.7,
     reviewCount: 354,
     sizes: [
+      { label: 'Single plant', price: 33, mrp: 42 },
       { label: 'Pack of 10', price: 330, mrp: 420 },
       { label: 'Pack of 50', price: 1500, mrp: 1900 },
       { label: 'Pack of 100', price: 2800, mrp: 3500 },
@@ -748,7 +795,10 @@ export const products: Product[] = [
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
     image: 'https://image.pollinations.ai/prompt/mahogany%20timber%20tree%20Swietenia%20mahagoni%20seedling%20with%20glossy%20dark%20green%20compound%20leaves%2C%20tropical%20hardwood%20nursery%20India?width=600&height=400&nologo=true&seed=114',
-    gallery: ['https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
+    gallery: [
+      'https://image.pollinations.ai/prompt/mahogany%20plantation%20rows%2C%20young%20hardwood%20timber%20trees%2C%20South%20India%20agroforestry%2C%20professional%20photography?width=600&height=400&nologo=true&seed=1141',
+      'https://image.pollinations.ai/prompt/close%20up%20glossy%20dark%20green%20mahogany%20compound%20leaves%2C%20macro%20photography?width=600&height=400&nologo=true&seed=1142',
+    ],
     shortDescription: 'Premium hardwood mahogany seedlings for commercial timber farming and agroforestry.',
     description:
       'Mahogany is among the world\'s most valuable hardwoods. Grown commercially across South India for timber and veneer, it commands excellent market prices at harvest. The straight-grained, durable wood is sought after by furniture makers, shipbuilders and decorative wood industries.',
@@ -761,6 +811,7 @@ export const products: Product[] = [
     rating: 4.5,
     reviewCount: 163,
     sizes: [
+      { label: 'Single plant', price: 65, mrp: 80 },
       { label: 'Pack of 10', price: 650, mrp: 800 },
       { label: 'Pack of 50', price: 2900, mrp: 3600 },
       { label: 'Pack of 100', price: 5500, mrp: 6800 },
@@ -794,7 +845,10 @@ export const products: Product[] = [
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
     image: 'https://image.pollinations.ai/prompt/red%20sandalwood%20tree%20Pterocarpus%20santalinus%20with%20yellow%20flowers%20and%20green%20leaves%2C%20Eastern%20Ghats%20India%20timber%20tree%20sapling?width=600&height=400&nologo=true&seed=115',
-    gallery: ['https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
+    gallery: [
+      'https://image.pollinations.ai/prompt/red%20sandalwood%20plantation%20rows%2C%20Eastern%20Ghats%20rocky%20terrain%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1151',
+      'https://image.pollinations.ai/prompt/close%20up%20cut%20cross%20section%20of%20red%20sandalwood%20heartwood%20showing%20deep%20red%20colour%2C%20macro%20photography?width=600&height=400&nologo=true&seed=1152',
+    ],
     shortDescription: 'Rare, high-value red sandalwood seedlings — endemic to South India and in heavy demand.',
     description:
       'Red Sandalwood (Pterocarpus santalinus), endemic to the Eastern Ghats of Andhra Pradesh and Telangana, is one of India\'s most commercially valuable timbers. The dense, blood-red heartwood is highly prized for traditional medicines, musical instruments, handicrafts and dyes. Private cultivation is legally permitted and increasingly popular as a long-term investment crop.',
@@ -808,6 +862,7 @@ export const products: Product[] = [
     reviewCount: 147,
     badge: 'High Value',
     sizes: [
+      { label: 'Single plant', price: 140, mrp: 175 },
       { label: 'Pack of 5', price: 700, mrp: 875 },
       { label: 'Pack of 10', price: 1350, mrp: 1700 },
       { label: 'Pack of 25', price: 3200, mrp: 4000 },
@@ -847,7 +902,10 @@ export const products: Product[] = [
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
     image: 'https://image.pollinations.ai/prompt/Canarium%20strictum%20dammar%20resin%20tree%20with%20large%20glossy%20compound%20leaves%20and%20small%20fruits%2C%20Western%20Ghats%20sacred%20grove%20tree%20India?width=600&height=400&nologo=true&seed=116',
-    gallery: ['https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
+    gallery: [
+      'https://image.pollinations.ai/prompt/Western%20Ghats%20humid%20forest%20understorey%20with%20tall%20resin%20trees%2C%20professional%20nature%20photography?width=600&height=400&nologo=true&seed=1161',
+      'https://image.pollinations.ai/prompt/close%20up%20tree%20bark%20with%20dark%20resin%20dammar%20oozing%20from%20trunk%2C%20macro%20photography?width=600&height=400&nologo=true&seed=1162',
+    ],
     shortDescription: 'Sacred South Indian resin tree — doopa/dhoop — with medicinal and timber value.',
     description:
       'Doopa (Canarium strictum), the Black Dammar tree, is a sacred resin-yielding species native to the Western Ghats. Its resin is widely used in traditional South Indian rituals (dhoop incense), Ayurvedic medicine and as a wood varnish. The timber is medium-weight and used in construction. A meaningful addition to any agroforestry or sacred grove planting.',
@@ -860,6 +918,7 @@ export const products: Product[] = [
     rating: 4.4,
     reviewCount: 98,
     sizes: [
+      { label: 'Single plant', price: 75, mrp: 95 },
       { label: 'Pack of 10', price: 750, mrp: 950 },
       { label: 'Pack of 25', price: 1700, mrp: 2200 },
       { label: 'Pack of 50', price: 3200, mrp: 4100 },
@@ -893,7 +952,10 @@ export const products: Product[] = [
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
     image: 'https://image.pollinations.ai/prompt/Careya%20arborea%20kumbhi%20tree%20with%20large%20round%20leaves%20and%20white%20flower%20buds%2C%20South%20Indian%20deciduous%20forest%20native%20tree?width=600&height=400&nologo=true&seed=117',
-    gallery: ['https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
+    gallery: [
+      'https://image.pollinations.ai/prompt/native%20South%20Indian%20hardwood%20trees%20planted%20on%20farmland%20boundary%2C%20deciduous%20forest%20edge%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1171',
+      'https://image.pollinations.ai/prompt/close%20up%20Careya%20arborea%20white%20flower%20with%20pink%20stamens%2C%20macro%20photography?width=600&height=400&nologo=true&seed=1172',
+    ],
     shortDescription: 'Native South Indian hardwood tree for agroforestry, boundary planting and farm use.',
     description:
       'Paiyani (Careya arborea, also known as Kumbhi or Patana Oak) is a medium-to-large native hardwood tree widespread across South India\'s deciduous forests and farmlands. Its bark has traditional medicinal uses, the timber is used in rural construction and agricultural tools, and the flowers are an important honey source.',
@@ -906,6 +968,7 @@ export const products: Product[] = [
     rating: 4.3,
     reviewCount: 86,
     sizes: [
+      { label: 'Single plant', price: 65, mrp: 82 },
       { label: 'Pack of 10', price: 650, mrp: 820 },
       { label: 'Pack of 25', price: 1500, mrp: 1900 },
       { label: 'Pack of 50', price: 2800, mrp: 3500 },
@@ -941,7 +1004,10 @@ export const products: Product[] = [
     category: 'seeds-inputs',
     categoryName: 'Seeds & Inputs',
     image: 'https://image.pollinations.ai/prompt/hybrid%20vegetable%20seed%20packets%20with%20tomato%20chilli%20brinjal%20capsicum%20seeds%20displayed%2C%20Indian%20agriculture%20shop%20seeds?width=600&height=400&nologo=true&seed=118',
-    gallery: ['https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42', 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42'],
+    gallery: [
+      'https://image.pollinations.ai/prompt/vegetable%20seedling%20trays%20with%20young%20tomato%20chilli%20brinjal%20seedlings%2C%20nursery%20pro%20trays%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1181',
+      'https://image.pollinations.ai/prompt/close%20up%20assorted%20vegetable%20seeds%20spilled%20from%20packets%2C%20macro%20product%20photography?width=600&height=400&nologo=true&seed=1182',
+    ],
     shortDescription: 'Certified F1 hybrid vegetable seeds — tomato, chilli, brinjal, capsicum, okra and more.',
     description:
       'Our curated seed packs contain certified F1 hybrid varieties from reputed seed companies, packaged for South Indian growing conditions. Each pack is tested for germination rate (minimum 85%) and variety trueness. Choose individual crop packs or our seasonal assortments.',
