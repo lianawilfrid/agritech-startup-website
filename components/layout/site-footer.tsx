@@ -55,14 +55,13 @@ export function SiteFooter() {
             </p>
             <div className="mt-6 space-y-2.5 text-sm text-muted-foreground">
               <p className="flex items-center gap-2.5">
-                <MapPin className="size-4 text-primary" /> Hebbal, Bengaluru,
-                Karnataka 560024
+                <MapPin className="size-4 text-primary" /> Kochi, Kerala
               </p>
               <p className="flex items-center gap-2.5">
-                <Phone className="size-4 text-primary" /> +91 90000 00000
+                <Phone className="size-4 text-primary" /> +91 80881 92674
               </p>
               <p className="flex items-center gap-2.5">
-                <Mail className="size-4 text-primary" /> hello@sproutwell.in
+                <Mail className="size-4 text-primary" /> sproutwell.agritech@gmail.com
               </p>
             </div>
           </div>
@@ -93,7 +92,7 @@ export function SiteFooter() {
             © {new Date().getFullYear()} Sproutwell AgriTech Pvt. Ltd. {t('footer.rights')}
           </p>
           <a
-            href="https://wa.me/919000000000"
+            href="https://wa.me/918088192674"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 rounded-full bg-leaf px-4 py-2 text-sm font-medium text-leaf-foreground transition-colors hover:bg-leaf/90"
