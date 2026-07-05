@@ -150,7 +150,7 @@ export function ExpertAssistant() {
             </button>
           </form>
           <a
-            href="https://wa.me/919000000000"
+            href="https://wa.me/918088192674"
             target="_blank"
             rel="noopener noreferrer"
             className="mt-2 flex h-10 w-full items-center justify-center gap-2 rounded-full bg-leaf text-sm font-medium text-leaf-foreground transition-colors hover:bg-leaf/90"
