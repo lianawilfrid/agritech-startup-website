@@ -10,7 +10,7 @@ import { useLanguage } from '@/components/i18n/language-provider'
 import { useCart } from '@/components/cart/cart-provider'
 import { categories } from '@/lib/products'
 
-const WHATSAPP_URL = 'https://wa.me/919000000000'
+const WHATSAPP_URL = 'https://wa.me/918088192674'
 
 export function SiteHeader() {
   const { totalItems, openCart } = useCart()
