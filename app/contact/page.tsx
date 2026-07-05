@@ -96,7 +96,7 @@ export default function ContactPage() {
                   className="h-64 w-full"
                   loading="lazy"
                   referrerPolicy="no-referrer-when-downgrade"
-                  src="https://www.openstreetmap.org/export/embed.html?bbox=77.580%2C13.030%2C77.620%2C13.060&layer=mapnik&marker=13.045%2C77.600"
+                  src="https://www.openstreetmap.org/export/embed.html?bbox=76.240%2C9.905%2C76.300%2C9.960&layer=mapnik&marker=9.9312%2C76.2673"
                 />
               </div>
             </div>
@@ -148,7 +148,7 @@ export default function ContactPage() {
                         required
                         type="tel"
                         name="phone"
-                        placeholder="+91 90000 00000"
+                        placeholder="+91 80881 92674"
                         className="h-11 rounded-xl border border-border bg-background px-4 text-sm text-foreground outline-none focus:border-primary"
                       />
                     </label>
