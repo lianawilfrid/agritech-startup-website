@@ -342,11 +342,8 @@ export const products: Product[] = [
     localName: 'ಸೀಬೆ ಗಿಡ / கொய்யா / జామ',
     category: 'fruit-plants',
     categoryName: 'Fruit Plants',
-    image: 'https://image.pollinations.ai/prompt/guava%20plant%20Psidium%20guajava%20with%20round%20green%20guava%20fruits%20on%20branch%2C%20green%20leaves%2C%20Indian%20fruit%20farm?width=600&height=400&nologo=true&seed=105',
-    gallery: [
-      'https://image.pollinations.ai/prompt/guava%20orchard%20rows%20with%20dwarf%20fruiting%20trees%2C%20Indian%20farm%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1051',
-      'https://image.pollinations.ai/prompt/sliced%20cross%20section%20of%20fresh%20guava%20fruit%20showing%20pink%20flesh%2C%20macro%20food%20photography?width=600&height=400&nologo=true&seed=1052',
-    ],
+    image: '/products/guava.jpg',
+    gallery: ['/products/guava.jpg', '/products/guava-alt.jpg'],
     shortDescription: 'High-yield grafted guava — L-49, Lalit and Taiwan Pink varieties available.',
     description:
       "Grafted guava plants from certified mother blocks guarantee heavy, uniform fruit set across the tree's long commercial life. Varieties include L-49 (Lucknow 49) for fresh market, Lalit for processing and Taiwan Pink for premium retail.",
@@ -490,11 +487,8 @@ export const products: Product[] = [
     localName: 'ಸಪೋಟ / சப்போட்டா / సపోటా',
     category: 'fruit-plants',
     categoryName: 'Fruit Plants',
-    image: 'https://image.pollinations.ai/prompt/sapota%20chikoo%20brown%20fruit%20on%20tree%20Manilkara%20zapota%2C%20ripe%20sapota%20fruits%20with%20green%20leaves%2C%20Indian%20orchard?width=600&height=400&nologo=true&seed=108',
-    gallery: [
-      'https://image.pollinations.ai/prompt/sapota%20chikoo%20orchard%20rows%2C%20mature%20fruiting%20trees%2C%20South%20India%20farm%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1081',
-      'https://image.pollinations.ai/prompt/sliced%20sapota%20chikoo%20fruit%20cross%20section%20showing%20brown%20sweet%20flesh%2C%20macro%20food%20photography?width=600&height=400&nologo=true&seed=1082',
-    ],
+    image: '/products/chikoo.jpg',
+    gallery: ['/products/chikoo.jpg', '/products/chikoo-alt.jpg'],
     shortDescription: 'Long-bearing grafted sapota with sweet, malty flavour — low maintenance crop.',
     description:
       'Grafted sapota begins fruiting in 3–4 years and continues to produce for over 50 years with minimal care. Once established, it tolerates dry spells, coastal salinity and a range of soils, making it one of the lowest-maintenance perennial fruit crops in South India.',
@@ -591,11 +585,8 @@ export const products: Product[] = [
     localName: 'ಕಾಫಿ ಗಿಡ / காபி செடி / కాఫీ మొక్క',
     category: 'plantation-crops',
     categoryName: 'Plantation Crops',
-    image: 'https://image.pollinations.ai/prompt/coffee%20plant%20Coffea%20arabica%20with%20red%20coffee%20cherries%20and%20green%20berries%20on%20branch%2C%20Western%20Ghats%20shade%20grown%20coffee?width=600&height=400&nologo=true&seed=110',
-    gallery: [
-      'https://image.pollinations.ai/prompt/shade%20grown%20coffee%20plantation%20rows%20under%20silver%20oak%20trees%2C%20Coorg%20Chikmagalur%20estate%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1101',
-      'https://image.pollinations.ai/prompt/close%20up%20ripe%20red%20coffee%20cherries%20on%20branch%2C%20macro%20photography?width=600&height=400&nologo=true&seed=1102',
-    ],
+    image: '/products/coffee.jpg',
+    gallery: ['/products/coffee.jpg', '/products/coffee-alt.jpg'],
     shortDescription: 'Shade-grown Arabica and Robusta coffee seedlings for the Western Ghats.',
     description:
       'Our coffee seedlings are raised from disease-resistant, high-cup-quality selections — S.795 and Cauvery (Arabica), and CxR selections (Robusta). Suited to the Western Ghats elevation belt of Karnataka and Kerala, these seedlings establish quickly under shade and produce consistently over their long life.',
@@ -641,11 +632,8 @@ export const products: Product[] = [
     localName: 'ಗೇರು ಗಿಡ / முந்திரி / జీడిపప்பు',
     category: 'plantation-crops',
     categoryName: 'Plantation Crops',
-    image: 'https://image.pollinations.ai/prompt/cashew%20tree%20with%20cashew%20apple%20and%20nut%20Anacardium%20occidentale%2C%20red%20and%20yellow%20cashew%20fruit%20with%20kidney%20shaped%20nut%2C%20India?width=600&height=400&nologo=true&seed=111',
-    gallery: [
-      'https://image.pollinations.ai/prompt/cashew%20orchard%20rows%20coastal%20laterite%20soil%2C%20Goa%20Karnataka%20plantation%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1111',
-      'https://image.pollinations.ai/prompt/close%20up%20cashew%20apple%20with%20attached%20raw%20cashew%20nut%2C%20macro%20photography?width=600&height=400&nologo=true&seed=1112',
-    ],
+    image: '/products/cashew.jpg',
+    gallery: ['/products/cashew.jpg', '/products/cashew-alt.jpg'],
     shortDescription: 'Grafted cashew nut plants from dwarf, high-yielding selections for coastal farms.',
     description:
       'Our cashew plants are air-layered or grafted from dwarf, early-bearing selections — Ullal-4, BPP-8 and Vengurla-4. These varieties produce larger nuts with better shelling percentage and are preferred by the processing industry across coastal Karnataka, Goa and Kerala.',
@@ -794,11 +782,8 @@ export const products: Product[] = [
     localName: 'ಮಹೋಗನಿ / மஹோகனி / మహోగని',
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
-    image: 'https://image.pollinations.ai/prompt/mahogany%20timber%20tree%20Swietenia%20mahagoni%20seedling%20with%20glossy%20dark%20green%20compound%20leaves%2C%20tropical%20hardwood%20nursery%20India?width=600&height=400&nologo=true&seed=114',
-    gallery: [
-      'https://image.pollinations.ai/prompt/mahogany%20plantation%20rows%2C%20young%20hardwood%20timber%20trees%2C%20South%20India%20agroforestry%2C%20professional%20photography?width=600&height=400&nologo=true&seed=1141',
-      'https://image.pollinations.ai/prompt/close%20up%20glossy%20dark%20green%20mahogany%20compound%20leaves%2C%20macro%20photography?width=600&height=400&nologo=true&seed=1142',
-    ],
+    image: '/products/mahogany.jpg',
+    gallery: ['/products/mahogany.jpg', '/products/mahogany-alt.jpg'],
     shortDescription: 'Premium hardwood mahogany seedlings for commercial timber farming and agroforestry.',
     description:
       'Mahogany is among the world\'s most valuable hardwoods. Grown commercially across South India for timber and veneer, it commands excellent market prices at harvest. The straight-grained, durable wood is sought after by furniture makers, shipbuilders and decorative wood industries.',
@@ -901,11 +886,8 @@ export const products: Product[] = [
     localName: 'ಧೂಪ ಮರ / தூப மரம் / ధూప చెట్టు',
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
-    image: 'https://image.pollinations.ai/prompt/Canarium%20strictum%20dammar%20resin%20tree%20with%20large%20glossy%20compound%20leaves%20and%20small%20fruits%2C%20Western%20Ghats%20sacred%20grove%20tree%20India?width=600&height=400&nologo=true&seed=116',
-    gallery: [
-      'https://image.pollinations.ai/prompt/Western%20Ghats%20humid%20forest%20understorey%20with%20tall%20resin%20trees%2C%20professional%20nature%20photography?width=600&height=400&nologo=true&seed=1161',
-      'https://image.pollinations.ai/prompt/close%20up%20tree%20bark%20with%20dark%20resin%20dammar%20oozing%20from%20trunk%2C%20macro%20photography?width=600&height=400&nologo=true&seed=1162',
-    ],
+    image: '/products/doopa.jpg',
+    gallery: ['/products/doopa.jpg', '/products/doopa-alt.jpg'],
     shortDescription: 'Sacred South Indian resin tree — doopa/dhoop — with medicinal and timber value.',
     description:
       'Doopa (Canarium strictum), the Black Dammar tree, is a sacred resin-yielding species native to the Western Ghats. Its resin is widely used in traditional South Indian rituals (dhoop incense), Ayurvedic medicine and as a wood varnish. The timber is medium-weight and used in construction. A meaningful addition to any agroforestry or sacred grove planting.',
@@ -951,11 +933,8 @@ export const products: Product[] = [
     localName: 'ಪೈಯಾನಿ / பையனி / పైయని',
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
-    image: 'https://image.pollinations.ai/prompt/Careya%20arborea%20kumbhi%20tree%20with%20large%20round%20leaves%20and%20white%20flower%20buds%2C%20South%20Indian%20deciduous%20forest%20native%20tree?width=600&height=400&nologo=true&seed=117',
-    gallery: [
-      'https://image.pollinations.ai/prompt/native%20South%20Indian%20hardwood%20trees%20planted%20on%20farmland%20boundary%2C%20deciduous%20forest%20edge%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1171',
-      'https://image.pollinations.ai/prompt/close%20up%20Careya%20arborea%20white%20flower%20with%20pink%20stamens%2C%20macro%20photography?width=600&height=400&nologo=true&seed=1172',
-    ],
+    image: '/products/paiyani.jpg',
+    gallery: ['/products/paiyani.jpg', '/products/paiyani-alt.jpg'],
     shortDescription: 'Native South Indian hardwood tree for agroforestry, boundary planting and farm use.',
     description:
       'Paiyani (Careya arborea, also known as Kumbhi or Patana Oak) is a medium-to-large native hardwood tree widespread across South India\'s deciduous forests and farmlands. Its bark has traditional medicinal uses, the timber is used in rural construction and agricultural tools, and the flowers are an important honey source.',
@@ -1003,11 +982,8 @@ export const products: Product[] = [
     localName: 'ತರಕಾರಿ ಬೀಜಗಳು / காய்கறி விதைகள் / కూరగాయ విత్తనాలు',
     category: 'seeds-inputs',
     categoryName: 'Seeds & Inputs',
-    image: 'https://image.pollinations.ai/prompt/hybrid%20vegetable%20seed%20packets%20with%20tomato%20chilli%20brinjal%20capsicum%20seeds%20displayed%2C%20Indian%20agriculture%20shop%20seeds?width=600&height=400&nologo=true&seed=118',
-    gallery: [
-      'https://image.pollinations.ai/prompt/vegetable%20seedling%20trays%20with%20young%20tomato%20chilli%20brinjal%20seedlings%2C%20nursery%20pro%20trays%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1181',
-      'https://image.pollinations.ai/prompt/close%20up%20assorted%20vegetable%20seeds%20spilled%20from%20packets%2C%20macro%20product%20photography?width=600&height=400&nologo=true&seed=1182',
-    ],
+    image: '/products/vegetable-seeds.jpg',
+    gallery: ['/products/vegetable-seeds.jpg', '/products/vegetable-seeds-alt.jpg'],
     shortDescription: 'Certified F1 hybrid vegetable seeds — tomato, chilli, brinjal, capsicum, okra and more.',
     description:
       'Our curated seed packs contain certified F1 hybrid varieties from reputed seed companies, packaged for South Indian growing conditions. Each pack is tested for germination rate (minimum 85%) and variety trueness. Choose individual crop packs or our seasonal assortments.',
