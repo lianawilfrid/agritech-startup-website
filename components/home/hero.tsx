@@ -14,10 +14,10 @@ export function Hero() {
   ]
 
   const stats = [
-    { value: '50,000+', label: t('hero.statsFarmers') },
-    { value: '1.2M+', label: t('hero.statsPlants') },
+    { value: 'Multitudes', label: t('hero.statsFarmers') },
+    { value: 'Countless', label: t('hero.statsPlants') },
     { value: '98%', label: t('hero.statsSurvival') },
-    { value: '5 States', label: t('hero.statsStates') },
+    { value: '3 States', label: t('hero.statsStates') },
   ]
 
   return (
@@ -54,7 +54,7 @@ export function Hero() {
               {t('common.shopPlants')} <ArrowRight className="size-5" />
             </Link>
             <a
-              href="https://wa.me/919000000000"
+              href="https://wa.me/918088192674"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex h-13 items-center justify-center gap-2 rounded-full border border-white/30 bg-white/10 px-7 py-3.5 text-base font-semibold text-white backdrop-blur-sm transition-colors hover:bg-white/20"
