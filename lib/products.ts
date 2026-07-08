@@ -134,13 +134,9 @@ export const products: Product[] = [
     localName: 'ಬಾಳೆ ಗಿಡ / வாழை / అరటి',
     category: 'tissue-culture-plants',
     categoryName: 'Tissue Culture Plants',
-    image: 'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plant%20with%20large%20green%20bunch%20hanging%2C%20tropical%20farm%20rows%2C%20India%20agriculture?width=600&height=400&nologo=true&seed=101',
-    gallery: [
-      'https://image.pollinations.ai/prompt/G9%20Grand%20Naine%20tissue%20culture%20banana%20plantation%2C%20rows%20of%20healthy%20green%20banana%20plants%2C%20tropical%20farm%20India%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=42',
-      'https://image.pollinations.ai/prompt/small%20tissue%20culture%20banana%20plantlet%20in%20black%20nursery%20polybag%2C%20hardening%20nursery%2C%20close%20up%2C%20professional%20photography?width=600&height=400&nologo=true&seed=1011',
-      'https://image.pollinations.ai/prompt/close%20up%20banana%20leaf%20texture%20and%20young%20banana%20pseudostem%2C%20tropical%20farm%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1012',
-    ],
-    shortDescription: 'Virus-indexed, genetically uniform G9 banana plantlets for high bunch yields.',
+     image: '/products/banana.jpg',
+    gallery: ['/products/banana.jpg', '/products/banana-alt.jpg'],
+       shortDescription: 'Virus-indexed, genetically uniform G9 banana plantlets for high bunch yields.',
     description:
       'Our G9 (Grand Naine) tissue culture banana plants are produced in certified labs, fully virus-indexed and hardened in our nurseries before dispatch. Each plant guarantees genetic uniformity, synchronized harvesting and superior bunch weight compared to sucker-propagated material.',
     benefits: [
