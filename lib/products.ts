@@ -183,11 +183,8 @@ export const products: Product[] = [
     localName: 'ಸಾಗವಾನಿ / தேக்கு / టేకు',
     category: 'tissue-culture-plants',
     categoryName: 'Tissue Culture Plants',
-    image: 'https://image.pollinations.ai/prompt/teak%20tree%20sapling%20Tectona%20grandis%20with%20large%20oval%20green%20leaves%2C%20nursery%20pot%2C%20tropical%20India%20forestry%20seedling?width=600&height=400&nologo=true&seed=102',
-    gallery: [
-      'https://image.pollinations.ai/prompt/teak%20plantation%20rows%20Tectona%20grandis%2C%20young%20trees%20in%20straight%20lines%2C%20South%20India%20forestry%20farm%2C%20professional%20photography?width=600&height=400&nologo=true&seed=1021',
-      'https://image.pollinations.ai/prompt/close%20up%20teak%20tree%20trunk%20and%20large%20broad%20leaves%2C%20forestry%20nursery%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1022',
-    ],
+     image: '/products/teak.jpg',
+    gallery: ['/products/teak.jpg', '/products/teak-alt.jpg'],
     shortDescription: 'Clonally propagated teak with straight bole and superior timber quality.',
     description:
       'Tissue culture teak plants are clonally produced from elite mother trees selected for fast growth, straight trunk and superior timber quality. Unlike seed-grown teak, each plant is genetically identical, ensuring uniform plantation yield and predictable returns over the commercial cycle.',
@@ -235,11 +232,8 @@ export const products: Product[] = [
     localName: 'ಕರಿಮೆಣಸು / கருமிளகு / నల్ల మిరియాలు',
     category: 'tissue-culture-plants',
     categoryName: 'Tissue Culture Plants',
-    image: 'https://image.pollinations.ai/prompt/black%20pepper%20vine%20Piper%20nigrum%20with%20green%20and%20red%20pepper%20berries%20on%20vine%2C%20Kerala%20plantation%20climbing%20on%20support?width=600&height=400&nologo=true&seed=103',
-    gallery: [
-      'https://image.pollinations.ai/prompt/black%20pepper%20plantation%20vines%20climbing%20on%20standard%20trees%2C%20Kerala%20Coorg%20spice%20farm%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1031',
-      'https://image.pollinations.ai/prompt/close%20up%20cluster%20of%20black%20pepper%20berries%20on%20vine%2C%20green%20and%20ripening%20red%2C%20macro%20photography?width=600&height=400&nologo=true&seed=1032',
-    ],
+    image: '/products/black-pepper.jpg',
+    gallery: ['/products/black-pepper.jpg', '/products/black-pepper-alt.jpg'],
     shortDescription: 'High-yielding tissue culture black pepper — virus-free vines for commercial spice farming.',
     description:
       'Tissue culture black pepper vines are produced from Panniyur-1 and Karimunda selections — proven high-yielding, disease-tolerant varieties. Each vine is virus-indexed to be free from Phytophthora and mosaic virus, ensuring a clean start and consistent productivity over its long commercial life.',
@@ -288,11 +282,8 @@ export const products: Product[] = [
     localName: 'ಮಾವಿನ ಗಿಡ / மாங்கை மரம் / మామిడి',
     category: 'fruit-plants',
     categoryName: 'Fruit Plants',
-    image: 'https://image.pollinations.ai/prompt/grafted%20mango%20tree%20sapling%20with%20green%20mango%20fruits%2C%20Alphonso%20variety%2C%20healthy%20green%20leaves%2C%20Indian%20horticulture%20nursery?width=600&height=400&nologo=true&seed=104',
-    gallery: [
-      'https://image.pollinations.ai/prompt/mango%20orchard%20rows%20with%20fruit%20laden%20trees%2C%20Indian%20farm%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1041',
-      'https://image.pollinations.ai/prompt/close%20up%20ripe%20Alphonso%20mango%20fruit%20on%20branch%20with%20green%20leaves%2C%20macro%20photography?width=600&height=400&nologo=true&seed=1042',
-    ],
+    image: '/products/mango.jpg',
+    gallery: ['/products/mango.jpg', '/products/mango-alt.jpg'],
     shortDescription: 'Grafted mango saplings — Alphonso, Banganapalli, Totapuri and Kesar varieties.',
     description:
       'Our grafted mango plants are produced by veneer-grafting onto vigorous rootstocks, ensuring early bearing and true-to-variety fruit. Choose from top commercial varieties — Alphonso, Banganapalli, Totapuri, Kesar and more — for your region.',
@@ -384,11 +375,8 @@ export const products: Product[] = [
     localName: 'ಸೀತಾಫಲ / சீதாப்பழம் / సీతాఫలం',
     category: 'fruit-plants',
     categoryName: 'Fruit Plants',
-    image: 'https://image.pollinations.ai/prompt/custard%20apple%20sitaphal%20Annona%20squamosa%20green%20scaly%20fruit%20on%20tree%2C%20Indian%20orchard%2C%20tropical%20fruit%20plant?width=600&height=400&nologo=true&seed=106',
-    gallery: [
-      'https://image.pollinations.ai/prompt/custard%20apple%20sitaphal%20orchard%20rows%2C%20dry%20Deccan%20plateau%20farm%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1061',
-      'https://image.pollinations.ai/prompt/sliced%20cross%20section%20of%20custard%20apple%20sitaphal%20fruit%20showing%20creamy%20white%20pulp%2C%20macro%20food%20photography?width=600&height=400&nologo=true&seed=1062',
-    ],
+    image: '/products/custard-apple.jpg',
+    gallery: ['/products/custard-apple.jpg', '/products/custard-apple-alt.jpg'],
     shortDescription: 'Grafted custard apple for heavy, sweet fruit — ideal for dry and semi-arid regions.',
     description:
       'Grafted custard apple plants bear fruit 2–3 years earlier than seedling trees and produce larger, sweeter, more uniform fruits with thicker pulp. Excellent for dry Deccan agroclimatic zones with shallow, well-drained soils.',
@@ -433,11 +421,8 @@ export const products: Product[] = [
     localName: 'ನಿಂಬೆ ಹಣ್ಣು / எலுமிச்சை / నిమ్మకాయ',
     category: 'fruit-plants',
     categoryName: 'Fruit Plants',
-    image: 'https://image.pollinations.ai/prompt/seedless%20lemon%20lime%20citrus%20tree%20with%20yellow%20green%20lemons%20hanging%20on%20branch%2C%20South%20India%20orchard%20grafted%20plant?width=600&height=400&nologo=true&seed=107',
-    gallery: [
-      'https://image.pollinations.ai/prompt/citrus%20lemon%20lime%20orchard%20rows%2C%20irrigated%20farm%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1071',
-      'https://image.pollinations.ai/prompt/sliced%20lemon%20lime%20fruit%20cross%20section%20showing%20juicy%20seedless%20segments%2C%20macro%20food%20photography?width=600&height=400&nologo=true&seed=1072',
-    ],
+    image: '/products/lemon.jpg',
+    gallery: ['/products/lemon.jpg', '/products/lemon-alt.jpg'],
     shortDescription: 'Grafted seedless lemon/lime plants for high juice yield and premium market value.',
     description:
       'Our grafted seedless citrus plants (lemon and acid lime varieties) are budded on Rangpur lime or rough lemon rootstock for robust growth and disease resistance. Seedless fruits command significantly higher market prices and are preferred by processors and modern retailers.',
@@ -531,11 +516,8 @@ export const products: Product[] = [
     localName: 'ಅಡಿಕೆ ಮರ / பாக்கு மரம் / అడిక్కాయ',
     category: 'plantation-crops',
     categoryName: 'Plantation Crops',
-    image: 'https://image.pollinations.ai/prompt/areca%20palm%20betel%20nut%20tree%20Areca%20catechu%20with%20clusters%20of%20orange%20nuts%2C%20tall%20slender%20palm%2C%20coastal%20Karnataka%20plantation?width=600&height=400&nologo=true&seed=109',
-    gallery: [
-      'https://image.pollinations.ai/prompt/areca%20palm%20plantation%20rows%2C%20tall%20slender%20trunks%2C%20coastal%20Karnataka%20farm%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1091',
-      'https://image.pollinations.ai/prompt/close%20up%20cluster%20of%20areca%20nuts%20betel%20nut%20on%20palm%2C%20macro%20photography?width=600&height=400&nologo=true&seed=1092',
-    ],
+     image: '/products/areca-palm.jpg',
+    gallery: ['/products/areca-palm.jpg', '/products/areca-palm-alt.jpg'],
     shortDescription: 'Certified areca palm (betel nut) seedlings for commercial plantation — top South Canara varieties.',
     description:
       'Our areca palm seedlings are raised from disease-free selected mother palms with high nut yield and good nut weight. Mangala, Sumangala and Shreemangala varieties are available. Areca cultivation is the backbone of coastal Karnataka and Kerala farming, offering steady annual income.',
@@ -677,11 +659,8 @@ export const products: Product[] = [
     localName: 'ಬೆಳ್ಳಿ ಓಕ್ / வெள்ளி ஓக் / సిల్వర్ ఓక్',
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
-    image: 'https://image.pollinations.ai/prompt/silver%20oak%20Grevillea%20robusta%20tall%20tree%20with%20fern-like%20silver%20green%20leaves%2C%20agroforestry%20shade%20tree%20South%20India?width=600&height=400&nologo=true&seed=112',
-    gallery: [
-      'https://image.pollinations.ai/prompt/silver%20oak%20avenue%20trees%20used%20as%20living%20standards%20in%20pepper%20plantation%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1121',
-      'https://image.pollinations.ai/prompt/close%20up%20silver%20oak%20fern%20like%20silvery%20green%20leaves%2C%20macro%20photography?width=600&height=400&nologo=true&seed=1122',
-    ],
+    image: '/products/silver-oak.jpg',
+    gallery: ['/products/silver-oak.jpg', '/products/silver-oak-alt.jpg'],
     shortDescription: 'Fast-growing shade and timber tree widely used as a standard for pepper and coffee.',
     description:
       'Silver Oak (Grevillea robusta) is the most commonly used shade tree in coffee and pepper plantations across South India. Its fast growth, non-invasive root system and light filtered shade make it the preferred living standard for black pepper vines and coffee bushes.',
@@ -728,11 +707,8 @@ export const products: Product[] = [
     localName: 'ಬೇವಿನ ಮರ / வேப்ப மரம் / వేప మొక్క',
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
-    image: 'https://image.pollinations.ai/prompt/neem%20tree%20Azadirachta%20indica%20with%20pinnate%20compound%20leaves%20and%20small%20white%20flowers%2C%20Indian%20farm%20tree%20medicinal%20plant?width=600&height=400&nologo=true&seed=113',
-    gallery: [
-      'https://image.pollinations.ai/prompt/neem%20trees%20planted%20along%20farm%20boundary%20row%2C%20South%20India%20agroforestry%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1131',
-      'https://image.pollinations.ai/prompt/close%20up%20neem%20compound%20leaves%20and%20small%20green%20fruit%20berries%2C%20macro%20photography?width=600&height=400&nologo=true&seed=1132',
-    ],
+    image: '/products/neem.jpg',
+    gallery: ['/products/neem.jpg', '/products/neem-alt.jpg'],
     shortDescription: 'Multipurpose neem tree for farm boundary planting, timber and biopesticide production.',
     description:
       'Neem is one of India\'s most versatile farm trees — providing shade, natural pest deterrence, organic manure (neem cake), timber and traditional medicinal value. An excellent choice for boundary planting, agroforestry rows and wasteland reclamation.',
@@ -820,16 +796,13 @@ export const products: Product[] = [
   },
   {
     slug: 'raktachandan',
-    name: 'Raktachandan (Red Sandalwood)',
+    name: 'Raktachandan',
     scientificName: 'Pterocarpus santalinus',
     localName: 'ರಕ್ತಚಂದನ / செம்மரம் / రక్తచందనం',
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
-    image: 'https://image.pollinations.ai/prompt/red%20sandalwood%20tree%20Pterocarpus%20santalinus%20with%20yellow%20flowers%20and%20green%20leaves%2C%20Eastern%20Ghats%20India%20timber%20tree%20sapling?width=600&height=400&nologo=true&seed=115',
-    gallery: [
-      'https://image.pollinations.ai/prompt/red%20sandalwood%20plantation%20rows%2C%20Eastern%20Ghats%20rocky%20terrain%2C%20professional%20agriculture%20photography?width=600&height=400&nologo=true&seed=1151',
-      'https://image.pollinations.ai/prompt/close%20up%20cut%20cross%20section%20of%20red%20sandalwood%20heartwood%20showing%20deep%20red%20colour%2C%20macro%20photography?width=600&height=400&nologo=true&seed=1152',
-    ],
+    image: '/products/rakthachandan.jpg',
+    gallery: ['/products/rakthachandan.jpg', '/products/rakthachandan-alt.jpg'],
     shortDescription: 'Rare, high-value red sandalwood seedlings — endemic to South India and in heavy demand.',
     description:
       'Red Sandalwood (Pterocarpus santalinus), endemic to the Eastern Ghats of Andhra Pradesh and Telangana, is one of India\'s most commercially valuable timbers. The dense, blood-red heartwood is highly prized for traditional medicines, musical instruments, handicrafts and dyes. Private cultivation is legally permitted and increasingly popular as a long-term investment crop.',
@@ -877,7 +850,7 @@ export const products: Product[] = [
   },
   {
     slug: 'doopa-tree',
-    name: 'Doopa (Black Dammar Tree)',
+    name: 'Doopa',
     scientificName: 'Canarium strictum',
     localName: 'ಧೂಪ ಮರ / தூப மரம் / ధూప చెట్టు',
     category: 'forestry-timber',
@@ -924,7 +897,7 @@ export const products: Product[] = [
   },
   {
     slug: 'paiyani-tree',
-    name: 'Paiyani (South Indian Hardwood)',
+    name: 'Paiyani',
     scientificName: 'Careya arborea',
     localName: 'ಪೈಯಾನಿ / பையனி / పైయని',
     category: 'forestry-timber',
@@ -978,8 +951,8 @@ export const products: Product[] = [
     localName: 'ತರಕಾರಿ ಬೀಜಗಳು / காய்கறி விதைகள் / కూరగాయ విత్తనాలు',
     category: 'seeds-inputs',
     categoryName: 'Seeds & Inputs',
-    image: '/products/vegetable-seeds.jpg',
-    gallery: ['/products/vegetable-seeds.jpg', '/products/vegetable-seeds-alt.jpg'],
+    image: '/products/vegetable-seedlings.jpg',
+    gallery: ['/products/vegetable-seedlings.jpg', '/products/vegetable-seedlings-alt.jpg'],
     shortDescription: 'Certified F1 hybrid vegetable seeds — tomato, chilli, brinjal, capsicum, okra and more.',
     description:
       'Our curated seed packs contain certified F1 hybrid varieties from reputed seed companies, packaged for South Indian growing conditions. Each pack is tested for germination rate (minimum 85%) and variety trueness. Choose individual crop packs or our seasonal assortments.',
