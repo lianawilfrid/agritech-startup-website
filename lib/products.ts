@@ -129,16 +129,16 @@ export const products: Product[] = [
   // ── TISSUE CULTURE PLANTS ────────────────────────────────────────────
   {
     slug: 'tc-banana-g9',
-    name: 'Tissue Culture Banana (G9 / Grand Naine)',
+    name: 'Tissue Culture Banana',
     scientificName: 'Musa acuminata (Grand Naine)',
     localName: 'ಬಾಳೆ ಗಿಡ / வாழை / అరటి',
     category: 'tissue-culture-plants',
     categoryName: 'Tissue Culture Plants',
      image: '/products/banana.jpg',
     gallery: ['/products/banana.jpg', '/products/banana-alt.jpg'],
-       shortDescription: 'Virus-indexed, genetically uniform G9 banana plantlets for high bunch yields.',
+       shortDescription: 'Virus-indexed, genetically uniform banana plantlets for high bunch yields.',
     description:
-      'Our G9 (Grand Naine) tissue culture banana plants are produced in certified labs, fully virus-indexed and hardened in our nurseries before dispatch. Each plant guarantees genetic uniformity, synchronized harvesting and superior bunch weight compared to sucker-propagated material.',
+      'Our  tissue culture banana plants are produced in certified labs, fully virus-indexed and hardened in our nurseries before dispatch. Each plant guarantees genetic uniformity, synchronized harvesting and superior bunch weight compared to sucker-propagated material.',
     benefits: [
       'Genetically uniform — true-to-type plants across the field',
       'Virus-free and disease-indexed at source',
@@ -277,7 +277,7 @@ export const products: Product[] = [
   // ── FRUIT PLANTS ─────────────────────────────────────────────────────
   {
     slug: 'grafted-mango',
-    name: 'Grafted Mango Plant',
+    name: 'Mango Plant',
     scientificName: 'Mangifera indica',
     localName: 'ಮಾವಿನ ಗಿಡ / மாங்கை மரம் / మామిడి',
     category: 'fruit-plants',
@@ -324,7 +324,7 @@ export const products: Product[] = [
   },
   {
     slug: 'grafted-guava',
-    name: 'Grafted Guava Plant',
+    name: 'Guava Plant',
     scientificName: 'Psidium guajava',
     localName: 'ಸೀಬೆ ಗಿಡ / கொய்யா / జామ',
     category: 'fruit-plants',
@@ -370,7 +370,7 @@ export const products: Product[] = [
   },
   {
     slug: 'grafted-custard-apple',
-    name: 'Grafted Custard Apple (Sitaphal)',
+    name: 'Custard Apple (Sitaphal)',
     scientificName: 'Annona squamosa',
     localName: 'ಸೀತಾಫಲ / சீதாப்பழம் / సీతాఫలం',
     category: 'fruit-plants',
@@ -416,7 +416,7 @@ export const products: Product[] = [
   },
   {
     slug: 'seedless-lemon-lime',
-    name: 'Seedless Lemon / Lime (Grafted)',
+    name: 'Lemon / Lime',
     scientificName: 'Citrus limon / Citrus aurantifolia',
     localName: 'ನಿಂಬೆ ಹಣ್ಣು / எலுமிச்சை / నిమ్మకాయ',
     category: 'fruit-plants',
@@ -463,7 +463,7 @@ export const products: Product[] = [
   },
   {
     slug: 'grafted-sapota',
-    name: 'Grafted Sapota (Chikoo)',
+    name: 'Sapota (Chikoo)',
     scientificName: 'Manilkara zapota',
     localName: 'ಸಪೋಟ / சப்போட்டா / సపోటా',
     category: 'fruit-plants',
@@ -511,7 +511,7 @@ export const products: Product[] = [
   // ── PLANTATION CROPS ─────────────────────────────────────────────────
   {
     slug: 'areca-palm',
-    name: 'Areca Palm Seedling',
+    name: 'Areca Palm',
     scientificName: 'Areca catechu',
     localName: 'ಅಡಿಕೆ ಮರ / பாக்கு மரம் / అడిక్కాయ',
     category: 'plantation-crops',
@@ -605,7 +605,7 @@ export const products: Product[] = [
   },
   {
     slug: 'cashew-nut-seedling',
-    name: 'Cashew Nut Seedling',
+    name: 'Cashew Nut Plant',
     scientificName: 'Anacardium occidentale',
     localName: 'ಗೇರು ಗಿಡ / முந்திரி / జీడిపప்பు',
     category: 'plantation-crops',
@@ -654,7 +654,7 @@ export const products: Product[] = [
   // ── FORESTRY & TIMBER ─────────────────────────────────────────────────
   {
     slug: 'silver-oak',
-    name: 'Silver Oak Seedling',
+    name: 'Silver Oak',
     scientificName: 'Grevillea robusta',
     localName: 'ಬೆಳ್ಳಿ ಓಕ್ / வெள்ளி ஓக் / సిల్వర్ ఓక్',
     category: 'forestry-timber',
@@ -702,7 +702,7 @@ export const products: Product[] = [
   },
   {
     slug: 'neem-seedling',
-    name: 'Neem Seedling',
+    name: 'Neem Plant',
     scientificName: 'Azadirachta indica',
     localName: 'ಬೇವಿನ ಮರ / வேப்ப மரம் / వేప మొక్క',
     category: 'forestry-timber',
@@ -749,7 +749,7 @@ export const products: Product[] = [
   },
   {
     slug: 'mahogany-seedling',
-    name: 'Mahogany Seedling',
+    name: 'Mahogany',
     scientificName: 'Swietenia mahagoni',
     localName: 'ಮಹೋಗನಿ / மஹோகனி / మహోగని',
     category: 'forestry-timber',
@@ -796,16 +796,16 @@ export const products: Product[] = [
   },
   {
     slug: 'raktachandan',
-    name: 'Raktachandan',
+    name: 'Sandalwood',
     scientificName: 'Pterocarpus santalinus',
     localName: 'ರಕ್ತಚಂದನ / செம்மரம் / రక్తచందనం',
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
     image: '/products/rakthachandan.jpg',
     gallery: ['/products/rakthachandan.jpg', '/products/rakthachandan-alt.jpg'],
-    shortDescription: 'Rare, high-value red sandalwood seedlings — endemic to South India and in heavy demand.',
+    shortDescription: 'Rare, high-value sandalwood seedlings — endemic to South India and in heavy demand.',
     description:
-      'Red Sandalwood (Pterocarpus santalinus), endemic to the Eastern Ghats of Andhra Pradesh and Telangana, is one of India\'s most commercially valuable timbers. The dense, blood-red heartwood is highly prized for traditional medicines, musical instruments, handicrafts and dyes. Private cultivation is legally permitted and increasingly popular as a long-term investment crop.',
+      'Sandalwood (Pterocarpus santalinus), endemic to the Eastern Ghats of Andhra Pradesh and Telangana, is one of India\'s most commercially valuable timbers. The dense wood is highly prized for traditional medicines, musical instruments, handicrafts and dyes. Private cultivation is legally permitted and increasingly popular as a long-term investment crop.',
     benefits: [
       'One of the highest-value timbers in South India',
       'Legal private cultivation permitted under Forest Act guidelines',
@@ -842,8 +842,8 @@ export const products: Product[] = [
     faqs: [
       ...commonFaqs,
       {
-        q: 'Is it legal to grow Raktachandan privately?',
-        a: 'Yes. Private cultivation of Pterocarpus santalinus is legally permitted in India. You should register your plantation with the state forest department; we can assist with the documentation process.',
+        q: 'Is it legal to grow Sandalwood privately?',
+        a: 'Yes. Private cultivation of Sandalwood is legally permitted in India. You should register your plantation with the state forest department; we can assist with the documentation process.',
       },
     ],
     reviews: baseReviews,
@@ -946,7 +946,7 @@ export const products: Product[] = [
   // ── SEEDS & INPUTS ───────────────────────────────────────────────────
   {
     slug: 'vegetable-seeds-pack',
-    name: 'Hybrid Vegetable Seeds (Assorted Pack)',
+    name: 'Hybrid Vegetable Seedling',
     scientificName: 'Various F1 hybrid varieties',
     localName: 'ತರಕಾರಿ ಬೀಜಗಳು / காய்கறி விதைகள் / కూరగాయ విత్తనాలు',
     category: 'seeds-inputs',
