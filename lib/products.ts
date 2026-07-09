@@ -558,7 +558,7 @@ export const products: Product[] = [
   },
   {
     slug: 'coffee-seedling',
-    name: 'Coffee Seedling (Arabica / Robusta)',
+    name: 'Coffee Plant',
     scientificName: 'Coffea arabica / Coffea canephora',
     localName: 'ಕಾಫಿ ಗಿಡ / காபி செடி / కాఫీ మొక్క',
     category: 'plantation-crops',
