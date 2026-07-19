@@ -1061,8 +1061,8 @@ export const products: Product[] = [
     localName: 'ಸುಬಾಬುಲ್ / சுபாபுல் / సుబాబుల్',
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
-    image: '/products/subabul.jpg',
-    gallery: ['/products/subabul.jpg', '/products/subabul-alt.jpg'],
+    image: '/products/subabul.jpeg',
+    gallery: ['/products/subabul.jpeg', '/products/subabul-alt.jpeg'],
     shortDescription: 'Fast-growing nitrogen-fixing tree for fodder, fuelwood and pulpwood.',
     description:
       'Subabul is a fast-growing, nitrogen-fixing leguminous tree grown extensively for high-protein fodder, fuelwood and pulpwood across South India. Its rapid coppicing ability allows repeated harvests from the same rootstock for years.',
@@ -1923,8 +1923,8 @@ export const products: Product[] = [
     localName: 'ನುಗ್ಗೆಕಾಯಿ / முருங்கை / మునగ',
     category: 'fruit-plants',
     categoryName: 'Fruit Plants',
-    image: '/products/moringa.jpg',
-    gallery: ['/products/moringa.jpg', '/products/moringa-alt.jpg'],
+    image: '/products/moringa.jpeg',
+    gallery: ['/products/moringa.jpeg', '/products/moringa-alt.jpeg'],
     shortDescription: 'Fast-yielding Moringa sapling — nutrient-dense pods and leaves, bearing within a year.',
     description:
       'Moringa, or drumstick, is among the fastest-yielding trees grown in South India — bearing pods within 8–10 months of planting. Its pods and leaves are both highly marketable, valued for nutrition, health-food and cosmetic industries, making it an excellent short-cycle cash crop alongside longer-term plantings.',
