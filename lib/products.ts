@@ -1107,8 +1107,8 @@ export const products: Product[] = [
     localName: 'ದೈಂಚಾ / தைஞ்சா / జీలుగ',
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
-    image: '/products/daincha.jpg',
-    gallery: ['/products/daincha.jpg', '/products/daincha-alt.jpg'],
+    image: '/products/daincha.jpeg',
+    gallery: ['/products/daincha.jpeg', '/products/daincha-alt.jpeg'],
     shortDescription: 'Fast-growing green manure crop — enriches soil nitrogen ahead of the main season.',
     description:
       'Daincha is a fast-growing annual legume grown primarily as a green manure crop, ploughed into the soil before flowering to boost nitrogen and organic matter ahead of paddy or other main crops. Young plants establish quickly and tolerate waterlogged conditions well.',
@@ -1152,8 +1152,8 @@ export const products: Product[] = [
     localName: 'ಬಿದಿರು / மூங்கில் / వెదురు',
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
-    image: '/products/bamboo.jpg',
-    gallery: ['/products/bamboo.jpg', '/products/bamboo-alt.jpg'],
+    image: '/products/bamboo.jpeg',
+    gallery: ['/products/bamboo.jpeg', '/products/bamboo-alt.jpeg'],
     shortDescription: 'Fast-growing thorny bamboo — construction, pulpwood, handicrafts and agroforestry.',
     description:
       'Bamboo is one of the fastest-growing woody plants on earth, widely cultivated across South India for construction poles, pulpwood, handicrafts, and as a soil-stabilizing agroforestry species along field boundaries and riverbanks. A single clump can be harvested sustainably for decades.',
