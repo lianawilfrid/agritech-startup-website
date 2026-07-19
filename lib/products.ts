@@ -1335,8 +1335,8 @@ export const products: Product[] = [
     localName: 'ಕಾಂಚಿವಾಳ / மந்தாரை / దేవకాంచనం',
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
-    image: '/products/orchid-tree.jpg',
-    gallery: ['/products/orchid-tree.jpg', '/products/orchid-tree-alt.jpg'],
+    image: '/products/orchid.jpeg',
+    gallery: ['/products/orchid.jpeg', '/products/orchid.jpeg'],
     shortDescription: 'Ornamental flowering tree with orchid-like pink-purple blossoms; also has fodder and medicinal uses.',
     description:
       'The Orchid Tree produces showy, orchid-like pink-to-purple blossoms in spring, making it a popular ornamental and avenue tree. Beyond its ornamental value, its leaves are used as fodder and its bark and buds have traditional medicinal applications.',
