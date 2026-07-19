@@ -723,10 +723,10 @@ export const products: Product[] = [
     reviewCount: 354,
     bestSeller: true,
     sizes: [
-      { label: 'Single plant', price: 33, mrp: 42 },
-      { label: 'Pack of 10', price: 330, mrp: 420 },
+      { label: 'Single plant', price: 45, mrp: 60 },
+      { label: 'Pack of 10', price: 450, mrp: 600 },
       { label: 'Pack of 50', price: 1500, mrp: 1900 },
-      { label: 'Pack of 100', price: 2800, mrp: 3500 },
+      { label: 'Pack of 100', price: 4500, mrp: 6000 },
     ],
     specs: {
       climate: 'Tropical and semi-arid; tolerates poor, degraded soils',
@@ -817,6 +817,7 @@ export const products: Product[] = [
     rating: 4.8,
     reviewCount: 147,
     badge: 'High Value',
+    bestSeller: true,
     sizes: [
       { label: 'Single plant', price: 140, mrp: 175 },
       { label: 'Pack of 5', price: 700, mrp: 875 },
@@ -872,8 +873,8 @@ export const products: Product[] = [
     reviewCount: 98,
     bestSeller: true,
     sizes: [
-      { label: 'Single plant', price: 75, mrp: 95 },
-      { label: 'Pack of 10', price: 750, mrp: 950 },
+      { label: 'Single plant', price: 45, mrp: 75 },
+      { label: 'Pack of 10', price: 450, mrp: 750 },
       { label: 'Pack of 25', price: 1700, mrp: 2200 },
       { label: 'Pack of 50', price: 3200, mrp: 4100 },
     ],
@@ -920,8 +921,8 @@ export const products: Product[] = [
     reviewCount: 86,
     bestSeller: true,
     sizes: [
-      { label: 'Single plant', price: 65, mrp: 82 },
-      { label: 'Pack of 10', price: 650, mrp: 820 },
+      { label: 'Single plant', price: 45, mrp: 62 },
+      { label: 'Pack of 10', price: 450, mrp: 620 },
       { label: 'Pack of 25', price: 1500, mrp: 1900 },
       { label: 'Pack of 50', price: 2800, mrp: 3500 },
     ],
