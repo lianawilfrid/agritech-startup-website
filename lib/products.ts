@@ -1290,8 +1290,8 @@ export const products: Product[] = [
     localName: 'ಗ್ರಾಂಡಿಫ್ಲೋರಾ / கிராண்டிஃபுளோரா / గ్రాండిఫ్లోరా',
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
-    image: '/products/grandiflora.jpg',
-    gallery: ['/products/grandiflora.jpg', '/products/grandiflora-alt.jpg'],
+    image: '/products/grandiflora.jpeg',
+    gallery: ['/products/grandiflora.jpg', '/products/grandiflora-alt.jpeg'],
     shortDescription: 'Large fragrant white-flowered avenue and garden tree with glossy evergreen foliage.',
     description:
       'Grandiflora Magnolia is a stately evergreen ornamental tree valued for its large, fragrant white blooms and glossy dark-green foliage. Widely planted in gardens, campuses and avenue plantings for its year-round visual appeal and pleasant flower fragrance.',
@@ -1380,8 +1380,8 @@ export const products: Product[] = [
     localName: 'ಕಕ್ಕೆ ಮರ / கொன்றை / రేల చెట్టు',
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
-    image: '/products/cassia-fistula.jpg',
-    gallery: ['/products/cassia-fistula.jpg', '/products/cassia-fistula-alt.jpg'],
+    image: '/products/cassia-fistula.jpeg',
+    gallery: ['/products/cassia-fistula.jpeg', '/products/cassia-fistula-alt.jpeg'],
     shortDescription: 'Golden Shower Tree — brilliant yellow cascading blooms, Kerala\'s state flower.',
     description:
       'Cassia Fistula, popularly known as the Golden Shower Tree (Kanikonna in Kerala, where it is the state flower), produces spectacular cascading clusters of bright yellow blossoms each summer. Widely planted for its striking ornamental value along avenues, temples and gardens.',
@@ -1425,8 +1425,8 @@ export const products: Product[] = [
     localName: 'ಪೆಲ್ಟೊಫೊರಮ್ / பெல்டோஃபோரம் / పెల్టోఫోరమ్',
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
-    image: '/products/peltophorum.jpg',
-    gallery: ['/products/peltophorum.jpg', '/products/peltophorum-alt.jpg'],
+    image: '/products/peltophorum.jpeg',
+    gallery: ['/products/peltophorum.jpeg', '/products/peltophorum-alt.jpeg'],
     shortDescription: 'Fast-growing avenue tree with bright yellow blooms — popular shade and roadside tree.',
     description:
       'Peltophorum, also called Copper Pod or Yellow Flame, is a fast-growing shade and avenue tree valued for its bright yellow flower clusters and broad, dense canopy. A common choice for roadside plantings, parks and campus landscaping across South India.',
@@ -1470,8 +1470,8 @@ export const products: Product[] = [
     localName: 'ಟಬೆಬುಯಾ ಆರ್ಜೆಂಟಿಯಾ / டேபிபூயா ஆர்ஜென்டியா / టబెబూయా ఆర్జెంటియా',
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
-    image: '/products/tabebuia-argentea.jpg',
-    gallery: ['/products/tabebuia-argentea.jpg', '/products/tabebuia-argentea-alt.jpg'],
+    image: '/products/tabebuia-argentea.jpeg',
+    gallery: ['/products/tabebuia-argentea.jpeg', '/products/tabebuia-argentea-alt.jpeg'],
     shortDescription: 'Golden-yellow flowering ornamental tree with distinctive silvery-grey foliage.',
     description:
       'Tabebuia Argentea, or Silver Trumpet Tree, is prized for its striking golden-yellow trumpet-shaped blooms set against distinctive silvery-grey foliage. A hardy, drought-tolerant ornamental well suited to gardens, avenues and landscaped commercial spaces.',
