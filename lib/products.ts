@@ -183,8 +183,8 @@ export const products: Product[] = [
     localName: 'ಸಾಗವಾನಿ / தேக்கு / టేకు',
     category: 'tissue-culture-plants',
     categoryName: 'Tissue Culture Plants',
-     image: '/products/teak.jpg',
-    gallery: ['/products/teak.jpg', '/products/teak-alt.jpg'],
+     image: '/products/teak.jpeg',
+    gallery: ['/products/teak.jpeg', '/products/teak-alt.jpeg'],
     shortDescription: 'Clonally propagated teak with straight bole and superior timber quality.',
     description:
       'Tissue culture teak plants are clonally produced from elite mother trees selected for fast growth, straight trunk and superior timber quality. Unlike seed-grown teak, each plant is genetically identical, ensuring uniform plantation yield and predictable returns over the commercial cycle.',
