@@ -422,8 +422,8 @@ export const products: Product[] = [
     localName: 'ಶ್ರೀಗಂಧ / சந்தனம் / గంధపు చెట్టు',
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
-    image: '/products/sandalwood.jpg',
-    gallery: ['/products/sandalwood.jpg', '/products/sandalwood-alt.jpg'],
+    image: '/products/sandalwood.jpeg',
+    gallery: ['/products/sandalwood.jpeg', '/products/sandalwood-alt.jpeg'],
     shortDescription: 'True Indian sandalwood — the world\'s most fragrant and valuable heartwood species.',
     description:
       'Santalum album, native to South India, produces the fragrant heartwood prized globally for perfumery, incense, cosmetics and traditional medicine. A hemi-parasitic tree, it establishes best alongside a compatible host plant that supplies it with nutrients. Heartwood formation begins after 10–12 years and increases steadily in value with age, making it a long-term high-value investment crop.',
@@ -767,8 +767,8 @@ export const products: Product[] = [
     localName: 'ನಿಥ್ ಗಿಡ / சீமை அகத்தி / గ్లిరిసీడియా',
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
-    image: '/products/gliricidia.jpg',
-    gallery: ['/products/gliricidia.jpg', '/products/gliricidia-alt.jpg'],
+    image: '/products/gliricidia.jpeg',
+    gallery: ['/products/gliricidia.jpeg', '/products/gliricidia-alt.jpeg'],
     shortDescription: 'Fast-growing nitrogen-fixing tree for green manure, fodder and living fences.',
     description:
       'Gliricidia sepium is a fast-growing, hardy leguminous tree widely planted across South Indian farms as a living fence, green manure source and fodder crop. Its nitrogen-fixing root nodules enrich soil fertility, while its leaves — rich in nitrogen — decompose quickly to serve as an excellent organic fertilizer for intercropped fields.',
