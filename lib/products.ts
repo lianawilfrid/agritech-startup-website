@@ -1198,8 +1198,8 @@ export const products: Product[] = [
     localName: 'ಜಾಲಿ ಮರ / கருவேல மரம் / తుమ్మ చెట్టు',
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
-    image: '/products/babool.jpg',
-    gallery: ['/products/babool.jpg', '/products/babool-alt.jpg'],
+    image: '/products/babool.jpeg',
+    gallery: ['/products/babool.jpeg', '/products/babool-alt.jpeg'],
     shortDescription: 'Hardy thorny tree for arid land reclamation, fuelwood, fodder pods and gum.',
     description:
       'Babool is an extremely hardy, drought-tolerant thorny tree well suited to dry, degraded and saline farmland. It provides multiple products — durable fuelwood, fodder pods, tannin-rich bark and gum arabic — while its dense root system helps stabilize eroded and marginal land.',
@@ -1244,8 +1244,8 @@ export const products: Product[] = [
     localName: 'ಪೈನ್ ಮರ / பைன் மரம் / పైన్ చెట్టు',
     category: 'forestry-timber',
     categoryName: 'Forestry & Timber',
-    image: '/products/pine.jpg',
-    gallery: ['/products/pine.jpg', '/products/pine-alt.jpg'],
+    image: '/products/pine.jpeg',
+    gallery: ['/products/pine.jpeg', '/products/pine-alt.jpeg'],
     shortDescription: 'Evergreen conifer for timber, resin and reforestation in hill and highland regions.',
     description:
       'Pine is a fast-growing evergreen conifer best suited to South India\'s hill regions (Nilgiris, Western Ghats highlands) with cooler temperatures and higher elevation. Grown for softwood timber, resin tapping and reforestation programs; performance in low-elevation plains is significantly poorer.',
