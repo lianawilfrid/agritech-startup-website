@@ -734,7 +734,7 @@ export const products: Product[] = [
     reviewCount: 287,
     
     sizes: [
-      { label: 'Single plant', price: 38, mrp: 48 },
+      { label: 'Single plant', price: 45, mrp: 48 },
       { label: 'Pack of 10', price: 380, mrp: 480 },
       { label: 'Pack of 50', price: 1800, mrp: 2250 },
       { label: 'Pack of 100', price: 3400, mrp: 4250 },
@@ -782,7 +782,7 @@ export const products: Product[] = [
     reviewCount: 156,
     bestSeller: true,
     sizes: [
-      { label: 'Single plant', price: 30, mrp: 38 },
+      { label: 'Single plant', price: 45, mrp: 50 },
       { label: 'Pack of 10', price: 280, mrp: 360 },
       { label: 'Pack of 50', price: 1250, mrp: 1600 },
       { label: 'Pack of 100', price: 2300, mrp: 2950 },
@@ -1075,7 +1075,7 @@ export const products: Product[] = [
     rating: 4.4,
     reviewCount: 118,
     sizes: [
-      { label: 'Single plant', price: 30, mrp: 38 },
+      { label: 'Single plant', price: 45, mrp: 48 },
       { label: 'Pack of 25', price: 700, mrp: 900 },
       { label: 'Pack of 100', price: 2600, mrp: 3300 },
     ],
@@ -1121,7 +1121,7 @@ export const products: Product[] = [
     rating: 4.2,
     reviewCount: 63,
     sizes: [
-      { label: 'Pack of 25 saplings', price: 300, mrp: 380 },
+      { label: 'Single plant', price: 45, mrp: 50 },{label: 'Pack of 25 saplings', price: 300, mrp: 380 },
       { label: 'Pack of 100 saplings', price: 1050, mrp: 1350 },
     ],
     specs: {
@@ -1212,7 +1212,7 @@ export const products: Product[] = [
     rating: 4.2,
     reviewCount: 71,
     sizes: [
-      { label: 'Single plant', price: 40, mrp: 52 },
+      { label: 'Single plant', price: 45, mrp: 52 },
       { label: 'Pack of 25', price: 900, mrp: 1150 },
       { label: 'Pack of 100', price: 3300, mrp: 4200 },
     ],
@@ -1258,7 +1258,7 @@ export const products: Product[] = [
     rating: 4.0,
     reviewCount: 34,
     sizes: [
-      { label: 'Single plant', price: 60, mrp: 78 },
+      { label: 'Single plant', price: 100, mrp: 128 },
       { label: 'Pack of 25', price: 1350, mrp: 1750 },
       { label: 'Pack of 100', price: 5000, mrp: 6400 },
     ],
@@ -1304,7 +1304,7 @@ export const products: Product[] = [
     rating: 4.4,
     reviewCount: 47,
     sizes: [
-      { label: 'Single plant', price: 180, mrp: 230 },
+      { label: 'Single plant', price: 60, mrp: 130 },
       { label: 'Pack of 5', price: 850, mrp: 1100 },
     ],
     specs: {
@@ -1394,7 +1394,7 @@ export const products: Product[] = [
     rating: 4.5,
     reviewCount: 88,
     sizes: [
-      { label: 'Single plant', price: 85, mrp: 108 },
+      { label: 'Single plant', price: 65, mrp: 108 },
       { label: 'Pack of 10', price: 800, mrp: 1020 },
     ],
     specs: {
@@ -1484,7 +1484,7 @@ export const products: Product[] = [
     rating: 4.4,
     reviewCount: 39,
     sizes: [
-      { label: 'Single plant', price: 110, mrp: 140 },
+      { label: 'Single plant', price: 75, mrp: 140 },
       { label: 'Pack of 5', price: 520, mrp: 660 },
     ],
     specs: {
@@ -1938,7 +1938,7 @@ export const products: Product[] = [
     reviewCount: 268,
     bestSeller: true,
     sizes: [
-      { label: 'Single plant', price: 40, mrp: 52 },
+      { label: 'Single plant', price: 45 mrp: 52 },
       { label: 'Pack of 10', price: 380, mrp: 490 },
       { label: 'Pack of 50', price: 1700, mrp: 2200 },
     ],
