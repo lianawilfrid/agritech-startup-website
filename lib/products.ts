@@ -246,6 +246,7 @@ export const products: Product[] = [
     rating: 4.6,
     reviewCount: 224,
     badge: 'Virus-Free',
+    bestSeller: true,
     sizes: [
       { label: 'Single vine', price: 80, mrp: 96 },
       { label: 'Pack of 10', price: 800, mrp: 960 },
@@ -295,7 +296,7 @@ export const products: Product[] = [
     ],
     rating: 4.8,
     reviewCount: 367,
-    bestSeller: true,
+    
     sizes: [
       { label: 'Single plant', price: 150, mrp: 185 },
       { label: 'Pack of 5', price: 700, mrp: 875 },
@@ -529,7 +530,7 @@ export const products: Product[] = [
     ],
     rating: 4.7,
     reviewCount: 341,
-    bestSeller: true,
+    
     sizes: [
       { label: 'Single plant', price: 90, mrp: 115 },
       { label: 'Pack of 10', price: 850, mrp: 1050 },
@@ -672,7 +673,7 @@ export const products: Product[] = [
     ],
     rating: 4.6,
     reviewCount: 287,
-    bestSeller: true,
+    
     sizes: [
       { label: 'Single plant', price: 38, mrp: 48 },
       { label: 'Pack of 10', price: 380, mrp: 480 },
@@ -720,6 +721,7 @@ export const products: Product[] = [
     ],
     rating: 4.7,
     reviewCount: 354,
+    bestSeller: true,
     sizes: [
       { label: 'Single plant', price: 33, mrp: 42 },
       { label: 'Pack of 10', price: 330, mrp: 420 },
@@ -796,7 +798,7 @@ export const products: Product[] = [
   },
   {
     slug: 'raktachandan',
-    name: 'Sandalwood',
+    name: 'Red Sandalwood',
     scientificName: 'Pterocarpus santalinus',
     localName: 'ರಕ್ತಚಂದನ / செம்மரம் / రక్తచందనం',
     category: 'forestry-timber',
@@ -868,6 +870,7 @@ export const products: Product[] = [
     ],
     rating: 4.4,
     reviewCount: 98,
+    bestSeller: true,
     sizes: [
       { label: 'Single plant', price: 75, mrp: 95 },
       { label: 'Pack of 10', price: 750, mrp: 950 },
@@ -915,6 +918,7 @@ export const products: Product[] = [
     ],
     rating: 4.3,
     reviewCount: 86,
+    bestSeller: true,
     sizes: [
       { label: 'Single plant', price: 65, mrp: 82 },
       { label: 'Pack of 10', price: 650, mrp: 820 },
