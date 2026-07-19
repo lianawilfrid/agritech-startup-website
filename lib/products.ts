@@ -1938,7 +1938,7 @@ export const products: Product[] = [
     reviewCount: 268,
     bestSeller: true,
     sizes: [
-      { label: 'Single plant', price: 45 mrp: 52 },
+      { label: 'Single plant', price: 45, mrp: 52 },
       { label: 'Pack of 10', price: 380, mrp: 490 },
       { label: 'Pack of 50', price: 1700, mrp: 2200 },
     ],
