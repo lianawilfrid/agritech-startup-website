@@ -1508,7 +1508,7 @@ export const products: Product[] = [
     faqs: commonFaqs,
     reviews: baseReviews,
   },
-  {
+  /*{
     slug: 'tabebuia-rosea',
     name: 'Tabebuia Rosea (Pink Trumpet Tree)',
     scientificName: 'Tabebuia rosea',
@@ -1915,7 +1915,7 @@ export const products: Product[] = [
     ],
     faqs: commonFaqs,
     reviews: baseReviews,
-  },
+  }, */
   {
     slug: 'moringa',
     name: 'Moringa (Drumstick)',
@@ -1965,7 +1965,7 @@ export const products: Product[] = [
   },
 
   // ── SEEDS & INPUTS ───────────────────────────────────────────────────
-  {
+  /* {
     slug: 'alfalfa-seeds',
     name: 'Alfalfa Seeds',
     scientificName: 'Medicago sativa',
@@ -2516,7 +2516,7 @@ export const products: Product[] = [
     ],
     faqs: commonFaqs,
     reviews: baseReviews,
-  },
+  }, */
   {
     slug: 'vegetable-seeds-pack',
     name: 'Hybrid Vegetable Seedling',
